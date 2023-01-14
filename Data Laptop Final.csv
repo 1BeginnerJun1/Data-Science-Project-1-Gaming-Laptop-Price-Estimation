@@ -1,0 +1,1001 @@
+Device Type,Weight,Size,Resolution,PPI,Ethernet,Speed,Generation,Solid State Drive,Laptop Brand,Price,OS,Warranty,Touch,Anti Glare Screen,Camera,Optical Drive,Processor,Brand,RAM,USB Type-C,USB 3.0,USB 2.0,Max Speed
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,3.3,5,512,HP,9425614.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.2
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Acer,10368364.5,Windows 11 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,3.3
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Acer,11311114.5,Windows 11 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.5,11,256,Lenovo,10653075.0,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,3.2
+Netbook,1.8,16.0,1200 x 1920 pixels,283,0,3.3,5,512,ASUS,10368364.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,AMD,16 GB DDR4,1,2,1,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,3.3,12,512,HP,14893564.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,1,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.5,11,512,Lenovo,9802714.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,3.2
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.3,11,512,MSI,11311114.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,3.3,12,512,HP,12442414.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,10524295.35,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.65,15.6,1920 x 1080 pixels,141,1,2.6,11,512,Dell,12767851.8,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,3,4,2,2.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,10766016.45,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,9804600.0,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.2,11,512,Acer,11311114.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,3,0,4.5
+Netbook,1.8,15.6,1920 x 1080 pixels,141,1,4.4,12,512,Acer,11499664.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,2,2,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,3.3,12,512,HP,13296734.55,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.4
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,512,ASUS,9991264.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.0
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.2,11,512,MSI,9425614.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.28,15.6,1920 x 1080 pixels,141,1,4.4,11,256,HP,12726936.45,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,2,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,5,512,ASUS,16967614.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,4.7,12,512,HP,17855496.45,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.7
+Netbook,1.8,15.6,1920 x 1080 pixels,141,0,3.3,12,512,Acer,10826541.0,Windows 11 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,3.3
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,10368364.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.57,15.6,1920 x 1080 pixels,141,1,3.5,12,512,Dell,19536796.8,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,0,3,1,4.7
+Netbook,2.4,15.6,2560 x 1600 pixels,184,1,3.0,12,1024,Lenovo,26395114.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,2,3,0,4.7
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,10839739.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.32,16.1,1920 x 1080 pixels,137,1,3.2,6,512,HP,19418764.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR5,2,2,0,4.7
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,4.4,12,512,Acer,11122564.5,Windows 11 Home,1,0,0,1,0,Intel Core i5,NVIDIA,16 GB,1,3,0,4.4
+Netbook,2.37,15.6,1920 x 1080 pixels,137,1,3.3,5,512,HP,11294145.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.2,6,512,ASUS,17910364.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,12,1024,ASUS,20738614.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,2.4,5,512,HP,11311114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.2
+Netbook,2.35,15.6,1920 x 1080 pixels,141,1,4.2,5,512,MSI,10653075.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,1,2,1,4.2
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.3,5,512,HP,12573079.65,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,0,4.2
+Netbook,2.23,16.0,2560 x 1600 pixels,188,0,3.0,12,1024,Lenovo,29789014.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,2,3,0,4.7
+Netbook,2.3,15.6,2560 x 1440 pixels,141,0,1.8,12,1024,Dell,28678455.0,Windows 11,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB LPDDR5,1,3,0,5.0
+Netbook,2.3,15.6,2560 x 1440 pixels,141,0,1.8,12,1024,Dell,34284612.15,Windows 11,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB LPDDR5,1,3,0,5.0
+Netbook,2.1,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,53923414.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR5,2,2,0,4.7
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.5,10,512,MSI,9425614.5,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.2,11,512,MSI,9802714.5,Windows 11 Home,2,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.38,15.6,1920 x 1080 pixels,141,1,3.0,12,1024,MSI,23851575.0,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.6,15.6,2560 x 1440 pixels,188,1,1.8,12,1024,Acer,26396811.450000003,Windows 11 Home,1,0,0,1,0,Intel Core i9,NVIDIA,16 GB DDR5,1,1,0,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Acer,10368364.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,2.3,12,1024,ASUS,18853114.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,256,Lenovo,11971039.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,4.7,12,512,HP,15459214.500000002,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.7
+Netbook,2.4,17.3,1920 x 1080 pixels,127,1,2.9,4,1024,ASUS,16213414.500000002,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,21183592.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.7
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,512,ASUS,10668347.55,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.0
+Netbook,2.57,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Dell,16535646.45,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR5,0,3,1,3.3
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,3.1,5,512,HP,14309059.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,1,1,4.4
+Netbook,2.93,15.6,1920 x 1080 pixels,141,1,3.3,5,512,HP,11312811.45,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,4.2
+Netbook,1.8,15.6,1920 x 1080 pixels,141,0,3.3,5,512,ASUS,11311114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,2,4.2
+Netbook,2.38,15.6,2560 x 1440 pixels,188,0,3.6,12,2048,MSI,81074614.5,Windows 11 Home,2,0,0,1,0,Intel Core i9,NVIDIA,32 GB DDR5,1,1,0,5.0
+Netbook,2.57,15.6,1920 x 1080 pixels,141,0,3.5,12,512,Dell,23455620.0,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,0,3,0,4.7
+Netbook,2.31,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Lenovo,15082114.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.3,16.0,2560 x 1600 pixels,184,1,3.0,12,1024,Lenovo,30731764.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,2,3,0,4.7
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.2,11,512,MSI,10368364.5,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.57,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,Dell,25925625.0,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,512,ASUS,10368175.95,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.0,12,512,MSI,15082114.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,4.7
+Netbook,2.2,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,ASUS,23189764.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.65,15.6,1920 x 1080 pixels,141,1,2.6,11,512,Dell,13143254.85,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,3,4,2,2.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,3.3,5,512,ASUS,18100611.45,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,4,0,4.6
+Netbook,2.48,16.1,1920 x 1080 pixels,137,0,3.3,5,512,HP,10745464.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,0,2,0,4.2
+Netbook,2.69,15.6,1920 x 1080 pixels,141,0,3.0,12,512,Dell,41815487.7,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.51,15.6,1920 x 1080 pixels,141,0,3.2,6,1024,Dell,29998305.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,11,256,Lenovo,11216839.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,3.2
+Netbook,2.37,15.6,1920 x 1080 pixels,137,1,3.3,5,512,HP,13762264.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.2,11,512,Lenovo,15082114.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,0,4.5
+Netbook,2.23,16.1,2560 x 1440 pixels,182,1,3.3,11,1024,HP,23566864.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,AMD,16 GB DDR4,1,3,0,3.3
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,12480124.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,12,512,MSI,14516464.5,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.4
+Netbook,2.6,17.32,1920 x 1080 pixels,127,1,2.3,11,512,MSI,14327914.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,1,2,1,4.6
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.0,12,512,Gigabyte,27337864.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,2.59,16.0,1920 x 1200 pixels,142,1,3.0,12,512,Lenovo,19795864.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Acer,11876764.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,0,4.2
+Netbook,2.35,15.6,1920 x 1080 pixels,141,1,3.2,5,512,MSI,15082114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,AMD,8 GB DDR4,1,2,1,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Lenovo,15082114.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,13856539.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,4.7,12,512,HP,18484499.25,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.7
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,5,256,Lenovo,9991264.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,512,ASUS,9991264.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.0
+Netbook,2.37,15.6,1920 x 1080 pixels,137,1,3.3,5,512,HP,12668674.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,1.52,14.0,1920 x 1080 pixels,157,0,4.7,12,512,HP,16496239.500000002,Windows 11 Home,1,0,0,1,0,Intel Core i7,INTEL,16 GB DDR4,2,2,0,4.7
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.3,11,512,MSI,12442414.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.6
+Netbook,1.72,14.0,2560 x 1600 pixels,216,0,3.3,6,1024,ASUS,34925305.050000004,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,AMD,32 GB DDR5,1,2,0,4.9
+Netbook,2.0,16.0,2560 x 1600 pixels,189,0,3.2,6,1024,ASUS,35238109.5,Windows 11 Home,1,1,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,1.86,15.6,1920 x 1080 pixels,141,0,2.2,11,512,MSI,10745464.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,3.3,12,512,HP,14327914.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.4
+Netbook,1.41,14.0,1920 x 1080 pixels,157,0,4.4,12,512,HP,13189072.5,Windows 11 Home,0,0,0,1,0,Intel Core i5,INTEL,8 GB DDR4,2,2,0,4.4
+Netbook,2.3,15.6,1080 x 1920 pixels,141,0,2.9,4,512,ASUS,14516464.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,1,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,0,3.2,6,512,ASUS,17440875.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,2.3,15.6,1080 x 1920 pixels,141,1,3.3,12,512,ASUS,15647764.500000002,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR5,1,2,0,4.4
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.2,5,512,HP,13660447.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.2,11,256,Acer,11878461.45,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,2,2,0,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.5,11,256,Lenovo,13008064.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,2,1,3.2
+Netbook,1.18,13.4,1920 x 1200 pixels,169,0,2.5,12,1024,ASUS,32994364.500000004,Windows 11 Home,1,1,0,1,0,Intel Core i9,NVIDIA,16 GB LPDDR5,1,0,1,2.5
+Netbook,2.2,15.6,1920 x 1080 pixels,141,0,3.0,12,1024,ASUS,22248900.0,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,1.86,15.6,1920 x 1080 pixels,141,0,2.3,11,512,MSI,12159589.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.6
+Netbook,2.6,15.6,1920 x 1080 pixels,141,1,4.5,12,1024,MSI,15836314.500000002,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,2.46,16.1,1920 x 1080 pixels,137,1,4.6,11,512,HP,20550064.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.3,15.6,1080 x 1920 pixels,141,0,2.9,4,512,ASUS,14629594.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,1,2,4.2
+Netbook,2.57,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Dell,16026750.000000002,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR5,0,3,1,3.3
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,10179814.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,11782489.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.5,17.3,1920 x 1080 pixels,170,0,4.7,6,512,ASUS,17840223.900000002,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,0,4,0,4.7
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,4.6,5,512,ASUS,18664564.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,10719067.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.47,16.1,1920 x 1080 pixels,137,1,2.3,11,512,HP,15270664.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,256,Lenovo,12913789.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,4,0,4.0
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.9,4,256,HP,14970870.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,0,1,4.2
+Netbook,1.3,13.4,3840 x 2400 pixels,338,0,3.0,5,1024,ASUS,19795864.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,16 GB LPDDR4X,2,1,1,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,10,512,Acer,9048514.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,12253864.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.14,15.6,1920 x 1080 pixels,141,1,2.6,10,256,ASUS,13196614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,1,2,5.0
+Netbook,1.76,15.6,1920 x 1080 pixels,141,1,4.4,12,512,Acer,10934014.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,INTEL,8 GB DDR4,2,3,0,4.4
+Netbook,3.11,15.6,1920 x 1080 pixels,141,1,4.5,12,512,Gigabyte,19588459.5,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,2,1,1,4.5
+Netbook,3.11,15.6,1920 x 1080 pixels,141,1,4.5,12,512,Gigabyte,16177778.55,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,1,1,4.5
+Netbook,3.11,15.6,1920 x 1080 pixels,141,1,4.5,12,512,Gigabyte,14685593.85,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,1,4.5
+Netbook,3.3,17.3,3840 x 2160 pixels,255,1,3.4,12,2048,MSI,91067764.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,64 GB DDR5,2,3,0,4.8
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.4,10,512,ASUS,10934014.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.5
+Netbook,2.3,17.3,1920 x 1080 pixels,141,0,3.3,11,1024,Dell,81987196.5,Windows 11,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,2,0,5.0
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,1.9,11,512,Dell,27245475.0,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,2,4.6
+Netbook,2.3,16.0,1920 x 1080 pixels,137,1,3.2,5,512,HP,14705014.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,AMD,8 GB DDR4,1,3,0,4.4
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,3.2,6,512,Dell,24172110.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,3.3,6,1024,Dell,27735705.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,1,3,0,4.9
+Netbook,1.76,15.6,1920 x 1080 pixels,141,1,4.4,12,512,Acer,9048514.5,Windows 11 Home,1,0,1,1,0,Intel Core i3,INTEL,8 GB,2,2,0,4.4
+Netbook,1.7,15.6,1920 x 1080 pixels,141,1,4.1,11,512,Acer,6974464.5,Windows 11 Home,1,0,0,1,0,Intel Core i3,INTEL,8 GB DDR4,0,2,1,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,1024,ASUS,12818571.75,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.3,11,512,Dell,38275650.0,Windows 11 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.9,4,256,Lenovo,26585550.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,4,0,4.2
+Netbook,2.3,17.3,2560 x 1440 pixels,170,1,3.3,6,1024,ASUS,39782164.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,4.7,11,1024,AGB,16026750.000000002,Windows 10 Pro,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,2,4.7
+Netbook,2.39,17.3,2560 x 1600 pixels,255,0,1.8,12,2048,MSI,75229564.5,Windows 11 Pro,2,0,1,1,0,Intel Core i9,NVIDIA,64 GB DDR5,2,2,0,5.0
+Netbook,2.3,16.1,1920 x 1080 pixels,141,0,3.3,6,1024,HP,30201939.0,Windows 11 Home,1,0,0,1,0,AMD Ryzen 9,AMD,32 GB DDR5,2,3,0,4.9
+Netbook,2.3,16.1,1920 x 1080 pixels,141,0,3.2,6,1024,HP,25452364.5,Windows 11 Home,1,0,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,3,0,4.7
+Netbook,2.3,16.0,1920 x 1080 pixels,141,0,3.2,6,512,HP,20172964.5,Windows 11 Home,1,0,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,3,0,4.7
+Netbook,2.3,16.0,1920 x 1080 pixels,141,0,3.2,6,512,HP,19418764.5,Windows 11 Home,1,0,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,3,0,4.7
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,13950814.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.3,11,512,MSI,18574060.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Lenovo,14706711.45,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,12821400.0,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,11,1024,Acer,28280614.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,3.0,15.6,3840 x 2160 pixels,188,1,1.8,12,2048,Acer,60335811.45,Windows 11 Home,1,0,0,1,0,Intel Core i9,NVIDIA,32 GB DDR5,1,3,0,5.0
+Netbook,2.45,16.0,2560 x 1600 pixels,189,1,3.2,5,1024,Lenovo,25076961.450000003,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,4,1,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.2,6,512,ASUS,18626854.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,2.32,16.1,1920 x 1080 pixels,137,1,3.3,5,512,HP,14197626.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.3,16.0,2560 x 1600 pixels,189,1,3.2,6,1024,Lenovo,37708114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,32 GB DDR5,3,3,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,12,1024,Gigabyte,34974139.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Hybrid,1.3,13.4,3840 x 2400 pixels,169,0,3.0,5,1024,ASUS,28280614.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,AMD,16 GB LPDDR4X,2,1,0,4.6
+Netbook,2.26,16.0,2560 x 1600 pixels,189,0,2.3,11,512,MSI,21869914.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,1.65,14.0,1920 x 1080 pixels,157,0,3.3,6,1024,ASUS,28848150.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,AMD,16 GB DDR5,2,2,0,4.9
+Hybrid,2.1,16.0,2560 x 1600 pixels,189,0,3.2,6,1024,ASUS,38990254.5,Windows 11 Home,1,1,1,1,0,AMD Ryzen 7,AMD,16 GB DDR5,2,2,0,4.7
+Netbook,2.0,16.0,2560 x 1600 pixels,189,0,3.2,6,1024,ASUS,36199714.5,Windows 11 Home,1,1,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Hybrid,2.1,16.0,2560 x 1600 pixels,189,0,4.9,6,1024,ASUS,39970714.5,Windows 11 Home,1,1,1,1,0,AMD Ryzen 9,AMD,16 GB DDR5,1,2,1,4.9
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.5,12,512,MSI,16024864.500000002,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.5,12,512,MSI,13196614.5,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,127,1,3.0,12,1024,MSI,19795864.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,1,2,1,4.7
+Netbook,2.6,17.32,1920 x 1080 pixels,127,1,2.3,11,512,MSI,15459214.500000002,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,1,2,1,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.3,11,1024,ASUS,19043550.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,4,0,4.6
+Netbook,2.37,15.6,1920 x 1080 pixels,141,1,3.2,5,512,HP,15187702.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,4.7,11,1024,AGB,14141250.0,Windows 10 Pro,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,2,4.7
+Netbook,2.4,15.6,1920 x 1200 pixels,145,1,3.3,5,512,Lenovo,15459214.500000002,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,2,3,0,4.2
+Netbook,2.3,17.3,1920 x 1080 pixels,127,1,3.3,6,1024,ASUS,38799819.0,Windows 11 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,12,1024,Gigabyte,27149314.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,2.45,16.0,2560 x 1600 pixels,189,1,3.2,5,1024,Lenovo,24344444.700000003,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,4,1,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.0,12,512,MSI,20738614.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.7
+Netbook,2.47,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,27526414.5,Windows 11 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.7
+Netbook,2.9,17.3,1920 x 1080 pixels,127,1,3.0,12,1024,MSI,35992309.5,Windows 11 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.47,15.6,2560 x 1440 pixels,188,0,1.8,12,1024,MSI,23755414.5,Windows 11 Home,2,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,1,2,1,5.0
+Netbook,2.9,17.3,3840 x 2160 pixels,255,0,2.5,12,2048,MSI,73532614.5,Windows 11 Home,2,0,0,1,0,Intel Core i9,NVIDIA,32 GB DDR5,2,3,0,5.0
+Netbook,3.0,17.3,2560 x 1440 pixels,170,0,5.0,12,4096,ASUS,67877811.45,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,1,2,0,5.0
+Netbook,2.25,15.6,1920 x 1080 pixels,127,0,3.0,12,1024,MSI,27308450.700000003,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,1,2,1,4.7
+Netbook,2.3,15.6,2560 x 1440 pixels,170,0,2.5,12,1024,ASUS,56938329.0,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,1,2,0,5.0
+Netbook,2.3,16.0,2560 x 1600 pixels,184,0,3.0,12,1024,Lenovo,32051614.500000004,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,2,3,0,4.7
+Netbook,1.9,15.6,1920 x 1080 pixels,141,0,3.2,5,1024,MSI,20738614.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR4,2,2,0,4.4
+Netbook,2.6,17.32,1920 x 1080 pixels,127,0,2.3,11,512,MSI,17533264.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,1,2,1,4.6
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,21966075.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,1,4.4
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,4.7,6,1024,ASUS,18664564.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.3,17.3,1920 x 1080 pixels,170,0,4.7,6,1024,ASUS,26229190.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,0,1,2,4.7
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.3,6,1024,ASUS,34693200.0,Windows 11 Home,1,0,0,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,Gigabyte,33937114.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,Gigabyte,34862895.0,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,3.3,12,512,Acer,15670201.95,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.2,11,512,Acer,11876764.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.3,11,512,Acer,15082114.5,Windows 11 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.6
+Netbook,2.8,17.3,2560 x 1440 pixels,170,1,3.0,12,2048,MSI,58448614.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR5,1,2,0,4.7
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.3,6,1024,ASUS,31108864.500000004,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,12123765.0,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.3,6,1024,ASUS,29223364.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,AMD,16 GB DDR5,2,2,0,4.9
+Netbook,2.38,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,37710000.0,Windows 11 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,3,1,4.7
+Netbook,2.9,17.3,1920 x 1080 pixels,127,1,3.0,12,1024,MSI,38652750.0,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,3,1,4.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.2,6,1024,ASUS,22624114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.2,6,512,HP,17836641.45,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR5,1,0,2,4.7
+Netbook,2.34,15.6,1920 x 1080 pixels,141,0,3.0,12,1024,Dell,49626360.0,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR5,2,1,0,4.7
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,12,512,Lenovo,14518161.45,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,10652886.45,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.5,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,Acer,24509614.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,0,2,1,4.7
+Netbook,3.02,17.3,1920 x 1080 pixels,141,1,3.0,12,1024,Dell,56824444.8,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB LPDDR5,2,2,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,6,1024,ASUS,27337864.5,Windows 11 Home,1,0,0,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,137,1,4.7,12,512,HP,18019723.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,4.5,11,1024,ASUS,13385164.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.5
+Netbook,2.0,16.0,2560 x 1600 pixels,189,1,3.0,12,512,ASUS,32051614.500000004,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,5,1024,ASUS,27714964.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.1,16.0,2560 x 1600 pixels,189,0,3.2,6,1024,ASUS,51281829.0,Windows 11 Home,1,1,0,1,0,AMD Ryzen 9,NVIDIA,32 GB DDR5,1,2,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,283,0,4.6,5,1024,ASUS,14893564.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,0,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,11,512,Lenovo,12065314.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,3.2
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.4,10,512,Dell,15647764.500000002,Windows 10,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,2,2.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Dell,27697806.450000003,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Dell,24831846.450000003,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,11,512,ASUS,15364939.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,3,0,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,20361514.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,1.3,13.4,1920 x 1200 pixels,169,0,3.2,6,1024,ASUS,30145562.55,Windows 11 Home,1,1,1,1,0,AMD Ryzen 7,NVIDIA,32 GB LPDDR5,2,1,0,4.7
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.2,6,1024,ASUS,29600464.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.2,6,1024,ASUS,28280614.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.3,6,1024,ASUS,36765364.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.2,6,1024,ASUS,28280614.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.3,6,1024,ASUS,37708114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,1.3,13.4,3840 x 2400 pixels,338,0,3.2,6,1024,ASUS,24808277.700000003,Windows 11 Home,1,1,0,1,0,AMD Ryzen 7,NVIDIA,32 GB LPDDR5,1,1,0,4.7
+Netbook,2.6,16.0,2560 x 1600 pixels,189,0,3.3,6,2048,ASUS,73909714.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,32 GB DDR5,1,2,0,4.9
+Netbook,2.3,14.0,1920 x 1200 pixels,216,0,3.2,6,1024,ASUS,27714964.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR5,2,2,0,4.7
+Netbook,2.3,14.0,2560 x 1600 pixels,216,0,3.2,6,1024,ASUS,29977564.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR5,2,2,0,4.7
+Netbook,2.0,16.0,2560 x 1600 pixels,189,0,3.2,6,1024,ASUS,32238279.000000004,Windows 11 Home,1,1,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.5,16.0,1920 x 1200 pixels,142,0,3.3,6,2048,ASUS,68253214.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,32 GB DDR5,2,2,0,4.9
+Netbook,2.5,16.0,1920 x 1200 pixels,142,0,3.2,6,2048,ASUS,45646069.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,32 GB DDR5,2,2,0,4.7
+Netbook,2.55,16.0,3840 x 2400 pixels,283,0,3.3,6,2048,ASUS,74852464.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,32 GB DDR5,1,2,0,4.9
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.3,6,1024,ASUS,36013050.0,Windows 11 Home,1,0,0,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,1.51,14.0,1920 x 1080 pixels,157,0,4.4,12,512,HP,14348655.0,Windows 11 Home,1,0,0,1,0,Intel Core i5,INTEL,16 GB DDR4,1,2,0,4.4
+Netbook,1.51,14.0,1920 x 1080 pixels,157,0,4.7,12,512,HP,18195075.0,Windows 11 Home,1,0,0,1,0,Intel Core i7,INTEL,16 GB DDR4,1,2,0,4.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,0,2.5,10,256,MSI,10181700.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.3,16.0,2560 x 1440 pixels,184,0,1.9,11,1024,Lenovo,34504461.45,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,0,4,0,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.5,11,512,Lenovo,11782489.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,3.2
+Netbook,3.9,17.3,3840 x 2160 pixels,188,1,5.0,11,2048,Acer,81535619.25,Windows 10 Home,1,0,0,1,0,Intel Core i9,NVIDIA,64 GB DDR4,2,3,0,5.0
+Ultrabook,2.34,15.6,3840 x 2160 pixels,282,0,3.0,12,1024,ASUS,44331687.45,Windows 11 Home,2,1,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,2,1,0,4.7
+Netbook,1.84,15.6,1920 x 1080 pixels,141,0,3.0,12,512,Dell,31108864.500000004,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB LPDDR5,1,1,0,4.7
+Netbook,1.84,15.6,1920 x 1080 pixels,141,0,4.5,12,512,Dell,29093076.450000003,Windows 11,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB LPDDR5,1,1,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,11,512,ASUS,14516464.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,3.2,6,512,Dell,23548009.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.38,17.3,3840 x 2160 pixels,255,1,3.0,12,2048,MSI,74875844.7,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR5,1,0,1,4.7
+Netbook,2.47,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,29190745.35,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.7
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,4.5,6,512,Dell,15364939.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR5,1,3,0,4.5
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,3.2,6,512,Dell,19984414.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,4.5,6,512,Dell,15459214.500000002,Windows 11 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR5,1,3,0,4.5
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,3.2,6,512,Dell,30920314.500000004,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.51,15.6,1920 x 1080 pixels,141,1,3.2,6,512,Dell,18853114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.38,15.6,2560 x 1440 pixels,188,1,2.3,11,1024,MSI,24509614.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.5,12,512,MSI,16213414.500000002,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.5,12,512,MSI,15082114.5,Windows 11 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.3,11,512,MSI,16024864.500000002,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,2.3,17.3,2560 x 1440 pixels,170,1,3.3,6,1024,ASUS,38462314.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,4.5,6,512,HP,15913620.000000002,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR5,1,3,0,4.5
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.2,6,512,HP,18853114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.2,5,512,HP,14886022.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,0,2.3,11,512,Lenovo,22287364.200000003,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,4,0,4.6
+Netbook,2.4,15.6,2560 x 1440 pixels,188,1,3.3,5,512,Acer,18853114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,12,1024,ASUS,21681364.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.4,16.0,2560 x 1600 pixels,189,1,3.0,12,2048,Acer,43364614.5,Windows 11 Home,1,0,0,1,0,Intel Core i7,NVIDIA,32 GB LPDDR5,1,2,0,4.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,10,512,Lenovo,13579182.45,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,5.0
+Netbook,1.18,13.4,3840 x 2400 pixels,338,0,2.5,12,1024,ASUS,34879864.5,Windows 11 Home,1,1,0,1,0,Intel Core i9,NVIDIA,16 GB LPDDR5,1,0,1,2.5
+Netbook,1.18,13.4,1920 x 1200 pixels,169,0,3.0,12,512,ASUS,30467794.5,Windows 11 Home,1,1,0,1,0,Intel Core i7,NVIDIA,16 GB LPDDR5,1,0,1,4.7
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,3.2,6,1024,ASUS,26302725.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,1.18,13.4,3840 x 2400 pixels,338,0,2.5,12,1024,ASUS,55620364.5,Windows 11 Home,1,1,0,1,0,Intel Core i9,NVIDIA,16 GB LPDDR5,1,0,1,2.5
+Netbook,2.6,15.6,2560 x 1440 pixels,188,1,3.5,12,1024,Acer,32994364.500000004,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,1,0,4.7
+Netbook,2.6,15.6,2560 x 1440 pixels,188,1,3.5,12,1024,Acer,29317639.5,Windows 11 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,1,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,13417783.65,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,1.8,14.0,1920 x 1080 pixels,141,0,3.0,12,1024,Dell,39670731.45,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB LPDDR5,1,1,0,4.7
+Netbook,2.3,17.3,1920 x 1080 pixels,127,1,3.2,6,512,ASUS,17619997.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,6,1024,ASUS,26583664.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,4.5,12,512,ASUS,16779064.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR5,1,2,0,4.5
+Netbook,2.6,17.32,1920 x 1080 pixels,127,1,2.3,11,512,MSI,16969500.0,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,1,2,1,4.6
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.2,11,512,MSI,10934014.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,14037358.95,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,2.2,11,512,HP,15442245.0,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.3,15.6,1080 x 1920 pixels,141,1,2.9,4,1024,ASUS,16213414.500000002,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,4.7,12,1024,ASUS,21645540.0,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,0,0,0,4.7
+Netbook,2.3,15.6,2560 x 1440 pixels,141,1,2.5,11,1024,Acer,23023840.5,Windows 11 Home,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,1,1,0,4.9
+Netbook,2.3,17.3,2560 x 1440 pixels,170,0,4.7,6,1024,ASUS,27526414.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,0,1,2,4.7
+Netbook,2.23,15.6,1920 x 1080 pixels,141,1,2.5,10,512,HP,11501361.45,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,12114337.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.2,6,1024,ASUS,25565494.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.57,15.6,1920 x 1080 pixels,141,1,3.5,12,512,Dell,22474971.450000003,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,0,3,0,4.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,12065314.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.5
+Netbook,2.44,15.6,1920 x 1080 pixels,141,0,2.1,11,512,Dell,13688541.45,Windows 11,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.4
+Netbook,2.44,15.6,1920 x 1080 pixels,141,0,2.1,11,512,Dell,14139364.5,Windows 11,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,2,1,4.4
+Netbook,2.57,15.6,1920 x 1080 pixels,141,1,3.5,12,1024,Dell,21964189.5,Windows 11 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR5,0,3,1,4.7
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.2,5,512,HP,18098914.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,1,0,4.4
+Netbook,2.38,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,47514411.45,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,3.0,15.6,1920 x 1080 pixels,141,1,3.2,6,1024,ASUS,21115714.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR,1,2,0,4.7
+Netbook,1.6,14.0,2560 x 1440 pixels,210,0,2.8,5,512,ASUS,22626000.0,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,2,2,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,11,512,ASUS,20551950.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,INTEL,16 GB DDR4,0,4,0,4.6
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,3.2,6,1024,ASUS,20598521.85,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,0,4,0,4.7
+Netbook,2.3,15.6,2560 x 1440 pixels,188,0,2.5,12,1024,ASUS,43364614.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,1,2,0,2.5
+Netbook,2.6,15.6,1920 x 1080 pixels,141,1,4.7,12,512,Acer,19795864.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.7,11,512,Acer,11311114.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.5
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,3.3,12,512,Acer,14706900.0,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,3.3,5,512,HP,13820715.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,4.2
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.3,5,512,HP,15875532.9,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.2
+Netbook,3.5,17.32,1920 x 1080 pixels,127,1,3.0,12,1024,MSI,26395114.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,0,2,1,4.7
+Netbook,2.2,16.0,2560 x 1600 pixels,189,0,2.3,11,1024,MSI,36578511.45,Windows 10 Home,1,0,1,1,0,Intel Tiger Lake,NVIDIA,16 GB DDR4,0,2,0,4.6
+Netbook,2.2,15.6,1920 x 1080 pixels,141,0,3.0,12,512,ASUS,18687190.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,0,3,0,4.7
+Netbook,2.01,16.0,3072 x 1920 pixels,226,0,2.3,11,1024,Dell,30544911.450000003,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,4.6
+Netbook,3.02,17.3,1920 x 1080 pixels,141,0,2.3,11,1024,Dell,54905760.0,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,0,4.6
+Netbook,2.34,15.6,1920 x 1080 pixels,141,0,5.0,12,1024,Dell,67236930.0,Windows 11,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR5,1,2,0,5.0
+Netbook,2.26,16.0,2560 x 1600 pixels,189,0,2.3,11,1024,MSI,26873088.75,Windows 10 Home,1,0,1,1,0,Intel Tiger Lake,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,2.34,15.6,1920 x 1080 pixels,141,0,3.0,12,1024,Dell,46475689.5,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,1.9,11,512,Dell,26887041.450000003,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,2,4.6
+Netbook,2.32,16.1,1920 x 1080 pixels,137,1,3.3,5,512,HP,13273920.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.32,16.1,1920 x 1080 pixels,137,1,3.2,5,1024,HP,21434364.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR4,1,0,2,4.4
+Netbook,2.44,15.6,1920 x 1080 pixels,141,1,2.2,11,512,Dell,18383625.0,Windows 11,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,1,2,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,14893564.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,2,1,4.4
+Netbook,2.57,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Dell,16686675.000000002,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,1,2,4.4
+Netbook,2.1,15.6,1920 x 1080 pixels,141,0,4.2,4,512,ASUS,15743736.45,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.57,15.6,1920 x 1080 pixels,141,0,3.2,5,512,Dell,13351979.7,Windows 11 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,0,1,2,4.2
+Netbook,1.6,14.0,2560 x 1440 pixels,210,0,4.4,5,1024,ASUS,20361514.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.47,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,31674514.500000004,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.7
+Netbook,2.38,15.6,1920 x 1080 pixels,188,1,4.6,11,1024,MSI,29225250.0,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,1.9,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,18382682.25,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.38,15.6,1920 x 1080 pixels,141,1,2.3,11,1024,MSI,23285925.0,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,2,2,0,4.6
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,1.9,11,512,Dell,19607314.5,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,2,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,10,1024,ASUS,11218725.0,Windows 11,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB,0,1,2,4.5
+Netbook,1.45,14.0,2880 x 1800 pixels,243,0,3.3,5,1024,ASUS,19609200.0,Windows 11 Home,1,0,0,1,0,AMD Ryzen 9,NVIDIA,8 GB DDR4,1,1,2,4.6
+Netbook,2.3,17.3,1920 x 1080 pixels,127,0,4.6,11,512,ASUS,18093258.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,2,4.6
+Netbook,2.23,16.1,2560 x 1440 pixels,182,1,3.3,11,1024,HP,24074064.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,AMD,16 GB DDR4,1,0,3,3.3
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.2,11,512,MSI,14046786.45,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,4.7,11,1024,ASUS,19722330.0,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,4.7,11,1024,ASUS,19041664.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.3,15.6,2560 x 1440 pixels,170,0,2.5,12,1024,ASUS,56940214.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,0,4,0,5.0
+Netbook,2.3,15.6,2560 x 1440 pixels,170,0,2.5,12,2048,ASUS,50718064.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,0,4,0,5.0
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,4.7,12,512,ASUS,18049702.95,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,5.2,11,1024,Acer,26395114.5,Windows 11 Home,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,1,1,0,4.9
+Netbook,1.7,15.6,1920 x 1080 pixels,141,1,4.1,11,512,Acer,6785914.5,Windows 11 Home,1,0,0,1,0,Intel Core i3,INTEL,8 GB DDR4,0,2,1,4.1
+Netbook,2.57,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Dell,20172964.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,1,2,4.4
+Netbook,1.9,15.6,2560 x 1440 pixels,188,0,3.2,5,1024,Lenovo,26960764.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,1.28,13.3,1366 x 768 pixels,118,0,2.4,11,512,HP,17535150.0,Windows 10 Pro,1,0,1,1,0,Intel Core i5,INTEL,8 GB DDR4,1,2,0,4.2
+Netbook,2.25,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,26018014.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.7
+Netbook,1.9,15.6,1920 x 1080 pixels,141,0,3.3,5,1024,MSI,20738614.5,Windows 11 Home,1,0,0,1,0,AMD Ryzen 9,AMD,16 GB DDR4,1,2,0,4.6
+Netbook,2.32,16.1,1920 x 1080 pixels,137,1,2.3,11,1024,HP,22248900.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.6
+Netbook,2.32,16.1,1920 x 1080 pixels,137,1,4.6,11,1024,HP,23568561.450000003,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,3,4.6
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.3,9,1024,ASUS,27337864.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,2,2,0,4.6
+Netbook,2.14,15.6,1920 x 1080 pixels,141,0,2.4,9,256,ASUS,10311799.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,2,4.1
+Netbook,2.14,15.6,1920 x 1080 pixels,141,0,2.5,10,256,ASUS,11857909.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,2,4.5
+Netbook,2.45,16.0,2560 x 1600 pixels,189,1,3.2,5,1024,Lenovo,25076961.450000003,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,4,1,4.4
+Netbook,2.21,17.3,1920 x 1080 pixels,127,1,2.2,11,1024,ASUS,16967614.5,Windows 10,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB,0,2,0,4.5
+Netbook,2.32,16.1,2560 x 1440 pixels,182,1,1.9,11,1024,HP,27005073.75,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,3,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,11,1024,Acer,25642611.450000003,Windows 11 Home,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,0,1,0,4.9
+Netbook,2.2,16.0,2560 x 1600 pixels,189,0,2.1,11,1024,MSI,39593614.5,Windows 10 Home,2,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,2,2,0,4.9
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,10839739.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.2
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.7,11,512,ASUS,14706900.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,2.3,11,512,ASUS,16667820.000000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.45,16.0,2560 x 1600 pixels,189,1,3.2,5,2048,Lenovo,25829464.5,Windows 11 Home,3,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,4,1,4.4
+Netbook,2.45,16.0,2560 x 1600 pixels,189,0,4.4,5,1024,Lenovo,34879864.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,32 GB DDR4,0,4,1,4.4
+Hybrid,1.3,13.4,1920 x 1200 pixels,169,0,3.0,5,1024,ASUS,28733134.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,32 GB LPDDR4X,2,1,0,4.6
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.2,5,256,Acer,15270664.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,1,0,4.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.2,11,512,Acer,14141061.45,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.5
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,2.3,11,512,Acer,22247014.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.7,11,1024,ASUS,14327914.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,14893564.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.3,11,256,Acer,19230214.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.6
+Netbook,2.3,16.0,2560 x 1440 pixels,184,0,1.9,11,1024,Lenovo,29788825.950000003,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,4.6
+Netbook,2.2,17.3,1920 x 1080 pixels,127,0,2.5,10,512,MSI,10407960.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.6,11,512,MSI,19797750.0,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.2,11,512,MSI,15149803.95,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Dell,17910364.5,Windows 10,1,0,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,1,2,4.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Dell,13385164.5,Windows 10,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,1,2,4.2
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,1.9,11,1024,Dell,28073209.5,Windows 10,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,2,4.6
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Dell,14987839.5,Windows 10,1,0,0,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,0,1,2,4.2
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,1.9,11,512,Dell,18572175.0,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,2,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,11,512,Lenovo,17910364.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.8
+Netbook,1.3,13.4,3840 x 2400 pixels,338,0,3.0,5,1024,ASUS,29224307.25,Windows 10 Home,1,1,0,1,0,AMD Ryzen 9,NVIDIA,16 GB LPDDR4X,2,1,0,4.6
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.4,10,512,Dell,12819514.5,Windows 10,1,0,0,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,1,2,2.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Lenovo,11876764.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,21492814.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.23,15.6,1920 x 1080 pixels,141,1,3.1,11,512,HP,13196614.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,0,3,4.4
+Netbook,1.86,15.6,1920 x 1080 pixels,141,0,5.0,10,512,MSI,14499495.0,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.23,15.6,1920 x 1080 pixels,141,1,3.3,11,512,HP,20910195.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,3,4.8
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,2.3,11,512,Acer,18193189.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.6
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,4.5,10,512,MSI,11311114.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,1.7,14.0,2560 x 1440 pixels,210,0,3.0,5,1024,ASUS,24910094.700000003,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,2,2,0,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,13038232.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.35,15.6,1920 x 1080 pixels,141,0,4.4,11,1024,MSI,18063090.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR4,0,2,1,4.4
+Netbook,1.7,14.0,2560 x 1440 pixels,210,0,3.0,5,1024,ASUS,24511500.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,17721814.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,2,3,0,4.4
+Netbook,2.32,16.1,1920 x 1080 pixels,137,1,2.3,11,1024,HP,25023790.35,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Lenovo,14893564.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,15647764.500000002,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,5.0,10,1024,MSI,16818660.0,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,5.0
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,19797750.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,3,1,4.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,0,2.3,11,512,Lenovo,20738614.5,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,4,1,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.6,11,1024,MSI,18232785.0,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,11688214.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Lenovo,20927164.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,3,1,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,11,512,Lenovo,15647764.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,1,4.8
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.3,11,1024,ASUS,17252136.45,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,1.7,14.0,1920 x 1080 pixels,157,0,3.0,5,1024,ASUS,22624114.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,2,2,0,4.6
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,1024,ASUS,24492645.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,0,4.8
+Netbook,2.14,15.6,1920 x 1080 pixels,141,0,2.2,10,512,ASUS,16967614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,1,2,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,2.9,4,1024,ASUS,16969311.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,1,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,5,1024,ASUS,22624114.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,3.0
+Netbook,1.7,14.0,1920 x 1080 pixels,157,1,3.0,5,512,ASUS,24321064.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,2,2,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.6,10,512,Lenovo,16119139.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,1,5.0
+Netbook,1.98,15.6,1920 x 1080 pixels,141,0,3.0,4,256,HP,11876764.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,256,Lenovo,12536689.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,4,0,4.5
+Netbook,2.9,17.3,1920 x 1080 pixels,127,1,4.6,11,1024,MSI,33937114.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,1,4.6
+Netbook,2.5,15.6,2560 x 1440 pixels,188,1,3.3,5,1024,ASUS,29223364.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,AMD,16 GB DDR4,1,0,0,4.6
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,4.6,11,1024,Acer,24509614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.6
+Netbook,2.1,15.6,2560 x 1440 pixels,188,1,4.6,11,1024,MSI,38839414.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.9,4,1024,ASUS,19984414.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.45,15.6,1920 x 1080 pixels,141,1,2.2,10,1024,HP,31674514.500000004,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,1,5.0
+Netbook,2.23,15.6,1920 x 1080 pixels,141,1,3.3,11,512,HP,18289161.45,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.8
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,14422189.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.45,16.0,2560 x 1600 pixels,189,1,3.2,5,1024,Lenovo,25829464.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,4,1,4.4
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.2,5,512,HP,20738614.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,1,0,4.4
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.3,11,1024,MSI,21681364.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,1.9,15.6,2560 x 1440 pixels,188,1,3.0,5,1024,ASUS,26397000.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,2,2,1,4.6
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,4.4,5,512,HP,16969500.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,0,1,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,10,512,Lenovo,13573714.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,1,5.0
+Netbook,2.47,16.1,1920 x 1080 pixels,137,1,2.2,11,256,HP,11876764.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.5
+Netbook,2.2,17.3,1920 x 1080 pixels,127,1,2.6,10,512,MSI,12425445.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,2,2,0,5.0
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,512,ASUS,12178444.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,11,1024,ASUS,23189764.5,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB,0,3,0,4.9
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Dell,17440875.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,2,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,38652750.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,1.6,14.0,1920 x 1080 pixels,157,0,2.8,5,512,ASUS,27337864.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.7,11,512,ASUS,18311033.25,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,3,0,4.5
+Netbook,2.5,17.3,1920 x 1080 pixels,127,1,3.2,5,1024,ASUS,19437619.5,Windows 10,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.4
+Netbook,1.3,13.4,3840 x 2400 pixels,338,0,3.0,5,1024,ASUS,42421864.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,32 GB LPDDR4X,2,1,1,4.8
+Netbook,2.2,15.6,1920 x 1080 pixels,141,0,3.1,11,512,Acer,11311868.7,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,11313000.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,4.5,11,512,ASUS,16967614.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,3,0,4.5
+Netbook,1.6,14.0,1920 x 1080 pixels,157,0,2.8,5,1024,ASUS,20985615.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.37,15.6,1920 x 1080 pixels,141,1,4.4,5,1024,HP,20363400.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,0,2,4.4
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,17828345.25,Windows 10 Home,1,0,1,0,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.3,5,256,Acer,16460415.000000002,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,0,4.2
+Netbook,2.23,15.6,1920 x 1080 pixels,141,0,2.5,10,512,HP,14989725.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,0,1,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.4,10,512,Dell,11122564.5,Windows 10,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,2,2.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.4,10,512,Dell,14516464.5,Windows 10,1,0,0,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,1,2,2.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,4.5,11,1024,ASUS,13385164.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.5
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Lenovo,11405389.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.1,11,1024,ASUS,16967614.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,8 GB DDR4,1,0,0,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Lenovo,11991780.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Hybrid,1.3,13.4,1920 x 1200 pixels,169,0,3.0,5,1024,ASUS,19230214.5,Windows 10 Home,1,1,0,1,0,AMD Ryzen 9,NVIDIA,16 GB LPDDR4X,2,1,0,4.6
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,1024,ASUS,16024864.500000002,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,16 GB DDR4,1,0,0,4.8
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,3.0,4,512,HP,10690785.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,3.0,4,512,HP,11181015.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.0
+Netbook,1.8,15.6,1920 x 1080 pixels,141,0,4.2,10,512,Dell,13179456.45,Windows 10,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,10,512,Lenovo,14574915.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,1,5.0
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.2,10,512,ASUS,15082114.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,5.0
+Netbook,1.6,14.0,1920 x 1080 pixels,157,0,2.8,5,1024,ASUS,19939162.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,1024,Lenovo,10745464.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,2.23,15.6,1920 x 1080 pixels,141,0,2.5,10,512,HP,13424760.0,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,0,4.5
+Netbook,1.7,14.0,1920 x 1080 pixels,157,0,2.8,5,1024,ASUS,32617264.500000004,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,10368364.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.5
+Netbook,1.3,13.4,3840 x 2400 pixels,338,0,3.0,5,1024,ASUS,23189764.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,16 GB LPDDR4X,2,1,1,4.6
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,256,Lenovo,11265862.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.5
+Netbook,2.0,14.0,1920 x 1080 pixels,157,0,2.9,4,512,ASUS,17156164.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,2,0,4.2
+Netbook,2.24,15.6,1920 x 1080 pixels,141,0,2.4,9,256,HP,21270325.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,12 GB DDR4,1,3,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,10935711.45,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.2,10,512,ASUS,18100800.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.04,15.6,1920 x 1080 pixels,141,1,3.0,4,512,HP,11311114.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.0
+Ultrabook,2.14,15.6,1920 x 1080 pixels,141,1,2.4,9,512,ASUS,10368364.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,2,2.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,11688214.5,Windows 10,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,256,Acer,15649650.000000002,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,256,Acer,11593939.5,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,0,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.4,9,256,Acer,13573714.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.1
+Netbook,2.0,14.0,1920 x 1080 pixels,157,0,2.9,4,512,ASUS,19984414.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,2,0,4.2
+Netbook,1.86,15.6,1920 x 1080 pixels,141,0,2.4,9,512,MSI,11725924.5,Windows 10 Home,2,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,10,256,Acer,18004639.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,5.0
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.5,10,512,ASUS,14893564.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.5
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.4,9,512,Lenovo,10292944.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,2.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.3,9,256,Acer,15743736.45,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,0,3.3
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Lenovo,14046975.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,4,0,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.9,4,256,Lenovo,15575361.3,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,4,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.9,4,512,Lenovo,14801175.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.48,15.6,1920 x 1080 pixels,141,1,3.1,5,1024,ASUS,38650864.5,Windows 10 Pro,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB,1,3,0,4.5
+Netbook,1.32,13.4,1920 x 1200 pixels,169,0,3.0,5,1024,ASUS,41479114.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,16 GB LPDDR4X,1,1,0,4.6
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.6,10,2048,Acer,30166114.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,1,5.0
+Netbook,2.1,15.6,3840 x 2160 pixels,282,1,2.3,10,1024,MSI,40536364.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,1,0,5.1
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.9,4,512,MSI,15647764.500000002,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR4,2,2,0,4.2
+Netbook,1.7,14.0,2560 x 1440 pixels,210,0,3.0,4,1024,ASUS,24417225.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,2,0,4.3
+Netbook,1.98,15.6,1920 x 1080 pixels,141,0,3.0,4,512,HP,11707823.7,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,4 GB DDR4,0,1,1,4.0
+Netbook,1.7,14.0,2560 x 1440 pixels,210,0,3.0,4,1024,ASUS,33069784.500000004,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,1,2,0,4.3
+Netbook,1.98,15.6,1920 x 1080 pixels,141,0,3.0,4,256,HP,11878461.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,1,1,4.0
+Netbook,1.7,15.6,1920 x 1080 pixels,141,0,2.5,10,512,Acer,14139364.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,4,0,4.5
+Netbook,2.1,15.6,1920 x 1080 pixels,141,0,2.2,8,512,ASUS,40726611.45,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,2,4.1
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.5,10,256,Acer,18004639.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,1,1,4.5
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Acer,22624114.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,1,5.0
+Netbook,2.5,15.6,3840 x 2160 pixels,282,0,2.4,10,1024,ASUS,50906614.5,Windows 10 Home,1,1,0,1,0,Intel Core i9,NVIDIA,32 GB DDR4,0,2,0,5.3
+Netbook,2.56,15.6,1920 x 1080 pixels,141,0,2.4,10,1024,Dell,38933689.5,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,0,2,0,2.4
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,2.9,4,512,Dell,15023664.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR4,1,1,2,4.2
+Netbook,2.56,15.6,1920 x 1080 pixels,141,0,2.6,10,1024,Dell,26075333.700000003,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,5.0
+Netbook,1.9,15.6,1920 x 1080 pixels,141,1,2.3,10,1024,ASUS,44307364.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,3,5.1
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.4,9,512,MSI,14139364.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,2,2,0,4.1
+Netbook,1.69,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Dell,13387050.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,1,1,2,4.0
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.3,10,1024,Lenovo,35823368.7,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,5.1
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.3,10,1024,Lenovo,28280614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,5.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.6,10,512,Dell,15819345.000000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,1,2,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,10,256,Dell,12935661.3,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,2,4.5
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,256,Lenovo,15036862.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.5
+Netbook,2.15,15.6,1920 x 1080 pixels,141,1,2.4,9,512,Acer,10764319.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.1
+Netbook,2.27,15.6,1920 x 1080 pixels,141,1,2.4,9,512,HP,11972925.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,3.0,4,256,HP,12631718.7,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.0
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,3.0,4,256,HP,11971793.7,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.0
+Netbook,2.04,15.6,1920 x 1080 pixels,141,1,2.1,4,256,HP,11292259.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,3.7
+Netbook,2.28,15.6,1920 x 1080 pixels,141,1,2.4,9,256,HP,12519720.0,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.37,15.6,1920 x 1080 pixels,141,1,3.0,4,512,HP,13198500.0,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.0
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,2.1,4,512,HP,11311114.5,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,3.7
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.4,9,512,Lenovo,12350025.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.04,15.6,1920 x 1080 pixels,141,1,2.1,9,512,HP,11737237.5,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,3.7
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.6,9,512,MSI,18853114.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,4.5
+Netbook,1.98,15.6,1920 x 1080 pixels,141,1,2.1,9,512,HP,13009950.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,3.7
+Netbook,2.4,15.6,3840 x 2160 pixels,282,1,2.3,10,1024,ASUS,52792114.5,Windows 10 Home,0,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.1
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,2.4,9,256,Acer,15046290.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,4.1
+Netbook,2.14,15.6,1920 x 1080 pixels,141,1,2.6,9,512,ASUS,14931274.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,2,4.5
+Netbook,1.7,14.0,1920 x 1080 pixels,157,1,1.6,8,1024,Lenovo,8711010.0,DOS,1,0,1,1,0,Intel Core i7,INTEL,4 GB DDR4,0,2,1,3.4
+Netbook,4.2,17.3,3840 x 2160 pixels,255,1,2.4,9,128,MSI,47137311.45,Windows 10 Home,2,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,1,5,0,5.0
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.1,9,128,HP,13952700.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,3.7
+Netbook,1.85,15.6,1920 x 1080 pixels,141,1,1.0,10,256,HP,13952700.0,Windows 10,1,0,1,1,1,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,3.6
+Netbook,1.3,13.3,1920 x 1080 pixels,166,0,1.8,8,256,ASUS,18103062.6,Windows 10 Home,3,0,1,1,0,Intel Core i7,INTEL,8 GB,2,0,0,4.6
+Netbook,2.3,13.3,1920 x 1080 pixels,166,0,1.3,10,512,Razer,24509614.5,Windows 10,0,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,3.9
+Netbook,2.38,15.6,3840 x 2160 pixels,282,1,2.3,9,2048,HP,56564811.45,Windows 10 Home,0,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,3,0,4.8
+Netbook,2.28,15.6,1920 x 1080 pixels,141,1,2.6,9,256,HP,15442245.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.85,17.3,1920 x 1080 pixels,237,1,2.6,8,512,ASUS,47137311.45,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Ultrabook,2.5,15.6,3840 x 2160 pixels,282,0,2.4,9,512,ASUS,47137311.45,Windows 10 Home,2,1,0,1,0,Intel Core i9,NVIDIA,16 GB DDR4,1,2,0,5.0
+Netbook,2.3,17.3,1920 x 1080 pixels,127,1,2.8,9,512,Acer,35409690.0,Windows 10 Home,0,0,0,1,0,Intel Core i9,NVIDIA,32 GB DDR4,2,1,0,4.2
+Netbook,1.5,15.6,1920 x 1080 pixels,141,1,2.2,9,512,Acer,17893395.0,Windows 10 Home,0,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,0,3.6
+Hybrid,2.3,17.3,3840 x 2160 pixels,255,1,2.2,8,512,Acer,56564811.45,Windows 10 Home,0,1,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,4.1
+Hybrid,4.7,17.3,1920 x 1080 pixels,127,1,2.9,8,512,ASUS,65992311.45,Windows 10 Pro,0,1,0,1,0,Intel Core i9,NVIDIA,64 GB DDR4,2,4,0,4.8
+Netbook,2.03,15.6,1920 x 1080 pixels,282,1,2.2,8,256,Razer,24134211.450000003,Windows 10 Home,0,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.1
+Netbook,2.1,15.6,3840 x 2160 pixels,282,1,2.2,8,512,Razer,43364614.5,Windows 10 Home,0,1,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.1
+Hybrid,1.8,15.6,3840 x 2160 pixels,282,1,2.2,8,1024,Lenovo,57130461.45,Windows 10 Pro,3,1,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,4.0
+Netbook,2.18,15.6,3480 x 2160 pixels,141,1,2.3,8,1024,Dell,18854811.450000003,Windows 10,1,0,0,1,1,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.0
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.2,8,128,HP,22049225.55,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,2.2
+Netbook,1.2,14.0,1920 x 1080 pixels,157,1,2.7,8,128,AGB,8484750.0,Windows 10,2,0,0,1,0,Intel Core i7,INTEL,8 GB DDR4,0,1,0,3.5
+Netbook,2.6,15.6,1920 x 1080 pixels,141,1,2.5,7,128,HP,19335991.05,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,5,0,3.5
+Netbook,2.62,15.6,1920 x 1080 pixels,141,1,2.8,7,128,Dell,16215300.000000002,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,0,0,3.8
+Netbook,2.4,15.6,2560 x 1440 pixels,188,1,3.3,5,512,Acer,18853114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.3,16.0,2560 x 1600 pixels,189,1,3.2,6,1024,Lenovo,29789014.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,3,1,4.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,6,1024,ASUS,26583664.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,2,2,0,4.7
+Netbook,2.9,17.3,2560 x 1440 pixels,170,1,3.3,6,1024,ASUS,35994006.45,Windows 11 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR5,2,2,0,4.9
+Netbook,1.3,13.4,1920 x 1200 pixels,169,0,3.0,5,1024,ASUS,41479114.5,Windows 10 Home,1,1,0,1,0,AMD Ryzen 9,NVIDIA,32 GB LPDDR4X,2,1,0,4.8
+Netbook,2.45,15.6,1920 x 1080 pixels,141,0,2.3,11,1024,MSI,36918090.0,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,4.6
+Ultrabook,2.34,15.6,3840 x 2160 pixels,282,0,2.3,11,1024,ASUS,42610414.5,Windows 11 Home,2,1,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,1,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.7,11,512,Acer,14046975.0,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,2,2,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,6,1024,ASUS,26583664.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,4.7,6,1024,ASUS,25452364.5,Windows 11 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR5,1,2,0,4.7
+Netbook,2.3,16.0,2560 x 1600 pixels,189,0,2.9,11,1024,MSI,32753020.500000004,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB LPDDR4X,1,2,1,5.0
+Netbook,2.27,15.6,1920 x 1080 pixels,141,0,2.3,11,1024,Dell,50625675.0,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,0,4.6
+Netbook,2.27,15.6,1920 x 1080 pixels,141,0,2.3,11,1024,Dell,45723375.0,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.6
+Netbook,3.5,16.1,1920 x 1080 pixels,137,0,2.2,11,512,HP,14610739.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,2,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.3,11,512,MSI,19213245.0,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,4.6
+Netbook,1.7,14.0,1920 x 1080 pixels,157,1,3.0,5,1024,ASUS,24698164.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,2,2,0,4.6
+Ultrabook,2.23,15.6,1920 x 1080 pixels,141,1,4.8,11,512,HP,17156164.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,3,4.8
+Netbook,1.98,15.6,1920 x 1080 pixels,141,0,4.2,5,512,HP,13368195.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,0,1,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,512,MSI,44174059.650000006,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,1.7,15.6,1920 x 1080 pixels,141,0,2.6,10,1024,Acer,20363400.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,4,0,5.0
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.3,11,256,Acer,19948590.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,1,0,4.6
+Netbook,2.2,17.3,1920 x 1080 pixels,127,0,2.6,10,512,MSI,16931790.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.2,5,512,Dell,17912250.0,Windows 10,1,0,0,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,1,2,4.4
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,1024,ASUS,21869914.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.8
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,11,1024,ASUS,23832720.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,4.6
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,13950814.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.3,11,512,ASUS,19720444.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,4.6
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,2.9,4,512,ASUS,16213414.500000002,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,15364939.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,13102339.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,12913789.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,1,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.2,11,256,Acer,12981667.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.6,11,512,MSI,20323804.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.6
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.1,11,512,ASUS,18098914.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,16 GB DDR4,1,0,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,11690100.0,Windows 10,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,1.6,14.0,1920 x 1080 pixels,157,0,2.8,5,512,ASUS,21683250.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,4,0,4.4
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,512,ASUS,21304264.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,0,4.8
+Netbook,1.6,14.0,1920 x 1080 pixels,157,0,3.0,5,512,ASUS,25381469.700000003,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,4,0,4.6
+Netbook,2.37,15.6,2560 x 1440 pixels,188,1,4.4,5,1024,HP,30166114.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,0,2,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,1024,ASUS,12630964.5,Windows 10,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Lenovo,16592400.000000002,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,2,0,4.0
+Netbook,1.86,17.3,1920 x 1080 pixels,141,1,2.6,10,256,MSI,23755414.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,5.0
+Netbook,4.0,15.6,1920 x 1080 pixels,141,1,4.5,11,1024,ASUS,19135939.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,3,0,4.5
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.5,10,512,MSI,16590514.500000002,Windows 10 Home,2,0,0,1,0,Intel Core i5,NVIDIA,16 GB DDR4,2,2,0,2.5
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,1024,ASUS,24058980.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.8
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,5,1024,ASUS,34881750.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.33,15.6,1920 x 1080 pixels,141,1,2.6,10,256,MSI,18853114.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,MSI,33371464.500000004,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.9,4,256,Lenovo,15838200.000000002,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.2,10,2048,Acer,28374889.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,1,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Lenovo,13726440.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.0
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.6,10,256,MSI,30166114.5,Windows 10 Pro,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,5.0
+Netbook,1.29,14.0,1920 x 1080 pixels,157,0,1.8,10,512,MSI,20172964.5,Windows 10,0,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,4.9
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,10,512,Dell,15366825.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,2,4.5
+Netbook,2.5,15.6,3840 x 2160 pixels,141,0,2.6,10,1024,Dell,47137500.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.4,9,1024,Lenovo,14490067.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,1.7,14.0,1920 x 1080 pixels,141,0,3.0,4,512,ASUS,16969500.0,Windows 10,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,2,2,0,4.0
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,3.0,4,1024,ASUS,24509614.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.3
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.4,9,1024,Acer,15196941.45,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.1
+Netbook,1.83,15.6,3840 x 2160 pixels,282,0,2.6,10,1024,Dell,40481685.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,0,0,5.0
+Netbook,2.5,15.6,3840 x 2160 pixels,282,0,2.6,10,1024,ASUS,42421864.5,Windows 10 Home,1,1,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,0,2,0,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,256,Lenovo,14158219.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,2.5
+Netbook,2.4,15.6,3840 x 2160 pixels,282,1,2.4,10,1024,ASUS,60335811.45,Windows 10 Home,0,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.3
+Netbook,4.2,17.3,3840 x 2160 pixels,255,1,2.4,9,256,MSI,45251811.45,Windows 10 Home,2,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,1,5,0,5.0
+Netbook,2.38,15.6,1920 x 1080 pixels,141,1,2.6,9,1024,HP,45252000.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.5
+Netbook,2.7,15.6,1920 x 1080 pixels,141,1,2.6,9,256,Acer,32463030.6,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,2,4.5
+Netbook,2.24,15.6,1920 x 1080 pixels,141,0,2.6,9,512,HP,30337695.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,4.5
+Netbook,1.88,15.6,1920 x 1080 pixels,141,1,2.2,8,512,MSI,34842154.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.1
+Hybrid,1.7,15.6,1920 x 1080 pixels,141,1,2.2,8,512,Lenovo,38652561.45,Windows 10 Pro,3,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,4.0
+Netbook,2.7,15.6,1920 x 1080 pixels,141,1,2.3,8,128,Acer,14063944.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,0,4.0
+Netbook,2.7,15.6,1920 x 1080 pixels,141,1,2.5,7,128,Acer,24511311.450000003,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,0,3.5
+Netbook,2.7,15.6,1920 x 1080 pixels,141,1,2.8,7,128,Acer,37962657.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,3.8
+Netbook,2.62,15.6,1920 x 1080 pixels,141,1,2.8,7,256,Dell,19607314.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,0,0,3.8
+Netbook,3.4,15.6,3840 x 2160 pixels,282,1,2.6,6,128,Acer,21992472.0,Windows 10 Home,1,0,0,1,1,Intel Core i7,NVIDIA,16 GB DDR4,0,1,0,2.6
+Netbook,2.06,15.6,1366 x 768 pixels,100,0,2.2,5,128,Dell,13008064.5,Windows 10 Home,1,1,0,1,0,Intel Core i5,AMD,8 GB DDR3,0,2,0,2.7
+Netbook,1.8,16.0,1200 x 1920 pixels,283,0,3.3,5,512,ASUS,8859964.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,1,2,1,4.2
+Netbook,1.9,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,24509614.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,3,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Acer,11122564.5,Windows 11 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,1.8,16.0,1200 x 1920 pixels,283,0,3.3,5,512,ASUS,11595825.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,AMD,16 GB DDR4,1,2,1,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.2,10,256,ASUS,12696202.8,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,5.0
+Netbook,3.3,17.3,3840 x 2160 pixels,255,1,3.3,12,2048,MSI,94273114.5,Windows 11 Home,2,0,1,1,0,Intel Core i9,NVIDIA,64 GB DDR5,2,3,0,5.0
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,4.2,4,512,ASUS,14687667.9,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.3,3,256,HP,9425614.5,Windows 10,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,1,1,4.0
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.2,8,256,ASUS,8954993.700000001,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,3.9
+Netbook,8.5,21.0,2560 x 1080 pixels,132,1,2.9,7,256,Acer,131984811.45,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,64 GB DDR4,0,2,2,3.9
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Acer,13385164.5,Windows 11 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Acer,12630964.5,Windows 11 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.3,16.0,2560 x 1600 pixels,184,1,3.0,12,1024,Lenovo,42331926.150000006,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR5,2,3,0,4.7
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,3.1,11,256,Lenovo,12725239.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,13196614.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.34,17.3,1920 x 1080 pixels,141,1,5.0,5,1024,Dell,73873890.0,Windows 11,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB LPDDR5,2,2,0,5.0
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,4.6,5,1024,ASUS,23001214.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.4,15.6,2560 x 1440 pixels,188,1,3.3,5,512,Acer,26018014.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,1.8,12,2048,ASUS,49963864.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,1,2,0,5.0
+Netbook,3.0,17.3,2560 x 1440 pixels,170,1,5.0,12,4096,ASUS,79377664.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,2,2,0,5.0
+Netbook,1.72,14.0,2560 x 1600 pixels,216,0,3.3,6,1024,ASUS,32051614.500000004,Windows 11 Home,1,0,1,1,0,AMD Ryzen 9,AMD,16 GB DDR5,2,2,0,4.9
+Netbook,2.57,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,Dell,30166114.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,3,0,4.7
+Netbook,3.0,17.3,2560 x 1440 pixels,170,1,5.0,12,2048,ASUS,67876114.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,2,2,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,12,1024,Gigabyte,24132514.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.7
+Netbook,2.17,17.0,3840 x 2400 pixels,266,0,3.0,12,1024,Dell,55620364.5,Windows 11,1,1,1,1,0,Intel Core i7,NVIDIA,16 GB DDR5,4,0,0,4.7
+Netbook,2.17,17.0,3840 x 2400 pixels,266,0,5.0,12,1024,Dell,46151383.5,Windows 11,1,1,1,1,0,Intel Core i9,NVIDIA,32 GB DDR5,4,0,0,5.0
+Netbook,2.15,15.6,1920 x 1080 pixels,141,1,2.1,5,512,Acer,11311114.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,2,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,5,512,MSI,18251640.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,AMD,16 GB DDR4,1,2,1,4.2
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,4.2,4,1024,ASUS,14327914.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.9,17.3,1920 x 1080 pixels,127,1,4.6,11,2048,MSI,52980664.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,0,4.6
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.0,12,1024,MSI,27903514.5,Windows 11 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,4.7
+Netbook,2.6,15.6,2560 x 1440 pixels,188,1,3.5,12,1024,Acer,35822614.5,Windows 11 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR5,1,1,0,4.7
+Netbook,1.3,13.4,1920 x 1200 pixels,169,0,3.0,5,1024,ASUS,25452364.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,2,1,0,4.6
+Netbook,1.8,15.6,1920 x 1080 pixels,141,0,3.0,12,512,Dell,31108864.500000004,Windows 11,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB LPDDR5,1,1,0,4.7
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,2.9,4,512,ASUS,15459214.500000002,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,11,512,ASUS,21062920.5,Windows 11 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,4.6
+Hybrid,1.3,13.4,1920 x 1200 pixels,169,0,3.0,5,1024,ASUS,21304264.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,32 GB LPDDR4X,2,1,0,4.6
+Netbook,2.9,17.3,2560 x 1440 pixels,170,0,2.5,12,1024,ASUS,44307364.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,1,2,0,2.5
+Netbook,2.4,17.3,1920 x 1080 pixels,127,0,2.9,4,512,ASUS,16213414.500000002,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,4,0,4.2
+Netbook,2.9,15.6,1920 x 1080 pixels,141,1,4.6,11,1024,MSI,28280614.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,1,4.6
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.3,11,1024,MSI,32639890.500000004,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,2,2,0,4.6
+Netbook,2.38,17.3,1920 x 1080 pixels,141,1,2.3,11,1024,MSI,26397000.0,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,1,3,0,4.6
+Netbook,1.4,14.0,2880 x 1800 pixels,243,0,3.1,11,512,ASUS,13489998.3,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,2,2,4.4
+Netbook,2.3,14.0,1920 x 1080 pixels,157,0,2.9,10,512,ASUS,13385164.5,Windows 10 Home,1,0,0,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,1,2,4.2
+Netbook,2.9,17.3,2560 x 1440 pixels,170,0,2.5,12,2048,ASUS,49398214.5,Windows 11 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR5,0,4,0,5.0
+Netbook,2.25,15.6,1920 x 1080 pixels,141,0,3.2,5,512,Lenovo,14893564.5,Windows 11 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,11,1024,Acer,32051614.500000004,Windows 11 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,2,0,2.5
+Netbook,2.9,17.3,3840 x 2160 pixels,255,1,3.0,12,2048,MSI,81074614.5,Windows 11 Home,2,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR5,1,0,1,3.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,11,1024,ASUS,28280614.5,Windows 10,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,0,3,0,4.9
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.3,5,1024,ASUS,25640914.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,8 GB DDR4,1,3,0,4.6
+Netbook,2.14,15.6,1920 x 1080 pixels,141,0,2.2,10,256,ASUS,13008064.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,2,5.0
+Netbook,2.0,15.6,1920 x 1080 pixels,141,0,3.3,11,1024,ASUS,28280614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,0,1,1,4.8
+Netbook,1.95,16.0,3840 x 2400 pixels,283,0,4.6,5,1024,ASUS,25829464.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,1,2,4.6
+Netbook,1.4,14.0,2880 x 1800 pixels,243,0,3.1,11,512,ASUS,15065145.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,2,2,4.4
+Netbook,1.4,14.0,2880 x 1800 pixels,243,0,3.1,11,512,ASUS,13385164.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,2,2,4.4
+Netbook,1.95,16.0,3840 x 2400 pixels,283,0,4.6,5,1024,ASUS,22812664.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,1,2,4.6
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.1,11,512,ASUS,16213414.500000002,Windows 11 Home,1,0,1,0,0,Intel Core i5,NVIDIA,16 GB DDR4,0,3,0,4.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,13896135.0,Windows 11 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.23,15.6,1920 x 1080 pixels,141,0,3.1,11,512,HP,13573714.5,Windows 11 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB,0,2,1,4.4
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,1024,ASUS,17331327.45,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.8
+Netbook,1.6,14.0,1980 x 1080 pixels,161,0,2.9,4,1024,ASUS,14516464.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,2.6,17.3,2560 x 1440 pixels,170,1,2.5,11,2048,ASUS,73532614.5,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,1,0,4.9
+Hybrid,1.3,13.4,3840 x 2400 pixels,338,0,3.1,5,1024,ASUS,29600464.5,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,32 GB LPDDR4X,2,1,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.2,11,512,ASUS,14705014.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,3.3,5,512,Lenovo,14299632.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,4,0,4.2
+Netbook,2.5,16.0,2560 x 1600 pixels,189,1,3.3,5,512,Lenovo,44458015.95,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,2,3,0,4.6
+Netbook,2.35,15.6,1920 x 1080 pixels,141,0,3.2,5,512,MSI,16878053.25,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,AMD,8 GB DDR4,0,2,1,4.4
+Netbook,2.6,17.3,3840 x 2160 pixels,255,1,4.9,11,3072,ASUS,75229564.5,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,1,0,4.9
+Netbook,2.1,15.6,1920 x 1080 pixels,141,0,3.3,5,1024,ASUS,22247014.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.2,11,256,Acer,14516464.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,1,0,4.5
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,2.3,11,256,Acer,26395114.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Lenovo,19135939.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,1,5.0
+Netbook,2.2,17.3,1920 x 1080 pixels,127,0,2.6,10,512,MSI,14840581.95,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,5.0
+Netbook,2.44,15.6,1920 x 1080 pixels,141,1,2.2,11,512,Dell,15459214.500000002,Windows 10,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,1,2,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,4.6,11,512,MSI,18476014.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,4.6
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,512,ASUS,15270664.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,0,4.8
+Netbook,1.7,14.0,2560 x 1440 pixels,210,0,3.0,5,1024,ASUS,28280614.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,1,3,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,11,1024,ASUS,27149314.5,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,16 GB DDR4,0,3,0,4.9
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,44309250.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,1,3,0,4.6
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,2.2,11,512,ASUS,17910364.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,4,0,4.5
+Netbook,2.4,17.3,1920 x 1080 pixels,127,1,2.9,4,512,ASUS,14327914.5,Windows 10,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,10745464.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.5
+Netbook,2.28,15.6,1920 x 1080 pixels,141,1,2.5,10,256,HP,12536689.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,0,2,4.5
+Netbook,4.42,17.3,2560 x 1440 pixels,127,1,2.9,8,512,Dell,60240593.7,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,2,0,4.8
+Netbook,2.14,15.6,1920 x 1080 pixels,141,0,2.2,10,512,ASUS,12126216.15,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,2,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,2.9,4,512,ASUS,14705014.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,1,4.2
+Netbook,2.3,15.6,2560 x 1440 pixels,188,1,3.3,5,2048,ASUS,47137500.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,1,3,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,16213414.500000002,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,3.3,5,1024,ASUS,27903514.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,1.98,15.6,1920 x 1080 pixels,141,0,3.0,4,512,HP,11878461.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,4.0
+Netbook,2.9,17.3,1920 x 1080 pixels,127,1,4.6,11,2048,MSI,36953914.5,Windows 10,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,0,4.6
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.2,11,512,ASUS,13950814.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.2,11,512,ASUS,16779064.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,0,3,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,10,512,ASUS,12065314.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,1,4.5
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.2,5,512,HP,17985784.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,1,0,4.4
+Netbook,2.48,16.1,1920 x 1080 pixels,137,1,3.3,5,512,HP,13630279.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.1,11,512,Acer,16024864.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.3,11,1024,Acer,18572175.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.8
+Netbook,2.5,17.3,1920 x 1080 pixels,127,0,2.2,11,1024,ASUS,15459214.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB,0,2,0,4.5
+Netbook,1.3,13.4,1920 x 1080 pixels,338,0,3.0,5,1024,ASUS,31295529.000000004,Windows 10 Home,1,1,1,1,0,AMD Ryzen 9,NVIDIA,32 GB LPDDR4X,2,1,1,4.8
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,2.2,11,512,ASUS,15063259.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB,0,2,0,4.5
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,512,ASUS,12915675.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,2,1,4.0
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,3.2,5,1024,ASUS,19230214.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.5,10,256,Dell,14956917.3,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,2,4.5
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.1,11,512,ASUS,14327914.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,8 GB DDR4,1,0,0,4.4
+Netbook,2.4,17.3,1920 x 1080 pixels,127,1,3.3,5,1024,ASUS,31485964.500000004,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,3,0,4.6
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,512,ASUS,15082114.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,16 GB DDR4,1,0,0,4.8
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,10,1024,ASUS,16401964.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,1024,ASUS,12630964.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,3.0,4,256,Lenovo,16912746.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,3.2,5,1024,ASUS,20738614.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,4,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,30545100.0,Windows 10 Home,1,0,0,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,3,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,4.5,11,512,ASUS,15082114.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB,0,3,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,10,1024,ASUS,14139364.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,2.2
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.2,5,1024,ASUS,21492814.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,10556725.95,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,1,4.5
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,17061889.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.4,17.3,1920 x 1080 pixels,127,1,3.3,5,1024,ASUS,28280614.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,3,0,4.6
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.9,4,512,Lenovo,14139364.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,2,1,4.2
+Netbook,2.5,17.3,1920 x 1080 pixels,127,1,3.3,5,1024,ASUS,18476014.5,Windows 10,1,0,1,0,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,3,0,4.2
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,11,1024,ASUS,21304264.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,2.3
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,512,ASUS,23566864.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,4.8
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.7,11,1024,ASUS,14893564.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,2.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,256,Lenovo,11499664.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.1,11,1024,ASUS,15082114.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,16 GB DDR4,1,3,0,4.4
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.3,11,1024,ASUS,18287464.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,0,4.8
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,10,512,ASUS,16967614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,5.0
+Netbook,2.5,17.3,1920 x 1080 pixels,127,1,3.3,5,512,ASUS,18853114.5,Windows 10,1,0,1,0,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,1.7,14.0,1920 x 1080 pixels,157,0,2.9,4,1024,ASUS,19607314.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,256,Lenovo,11216839.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,1.6,14.0,1920 x 1080 pixels,157,0,2.8,5,512,ASUS,14428977.3,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,4,0,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.4,9,256,Lenovo,10350263.7,Windows 10,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,3.3,9,512,ASUS,16967614.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,1,3,0,3.3
+Netbook,1.3,13.4,1920 x 1200 pixels,169,0,2.8,9,1024,ASUS,17910364.5,Windows 10 Home,1,1,0,1,0,AMD Ryzen 7,NVIDIA,16 GB LPDDR4X,2,1,1,2.8
+Netbook,1.3,13.4,3840 x 2400 pixels,338,0,3.0,5,1024,ASUS,24509614.5,Windows 10 Home,1,1,0,1,0,AMD Ryzen 9,NVIDIA,32 GB LPDDR4X,2,1,1,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,10,1024,ASUS,23472589.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,30166114.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,3,0,4.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,5,1024,ASUS,27337864.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,3,0,4.6
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.4,9,1024,Lenovo,8823008.700000001,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.45,15.6,1920 x 1080 pixels,141,0,2.2,10,512,HP,25829464.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,5.0
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,3.1,11,512,ASUS,15742039.500000002,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,16 GB DDR4,1,3,4,4.4
+Netbook,2.7,17.3,1920 x 1080 pixels,127,1,3.3,5,1024,ASUS,28469164.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,3,0,4.6
+Netbook,1.6,14.0,2560 x 1440 pixels,210,0,3.0,4,512,ASUS,20172964.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,2,0,4.3
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,2.3,10,1024,ASUS,27339750.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,3,5.1
+Netbook,1.6,14.0,2560 x 1440 pixels,210,0,3.0,4,1024,ASUS,22624114.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,2,0,4.3
+Netbook,2.5,15.6,1920 x 1200 pixels,141,0,2.4,10,1024,Dell,60334114.5,Windows 10 Home,1,0,0,1,0,Intel Core i9,NVIDIA,32 GB DDR4,0,3,0,5.3
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,3.2,5,512,ASUS,19607314.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,4,0,4.4
+Netbook,2.35,15.6,1920 x 1080 pixels,141,0,2.4,10,2048,ASUS,33090525.000000004,Windows 10 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR4,0,4,0,5.3
+Netbook,2.23,15.6,1920 x 1080 pixels,141,0,2.2,10,512,HP,15836314.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,5.0
+Netbook,3.0,17.3,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,18664564.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,256,ASUS,12065314.5,Windows 10,0,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.2,5,1024,ASUS,21304264.5,Windows 10 Home,1,0,0,1,0,AMD Ryzen 7,AMD,16 GB,0,2,0,4.4
+Netbook,3.72,15.6,1920 x 1080 pixels,141,1,2.2,10,1024,ASUS,18834259.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB,0,2,0,5.0
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,16401964.500000002,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.38,15.6,1920 x 1080 pixels,141,1,2.2,10,1024,MSI,29223364.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.9,17.3,1920 x 1080 pixels,127,1,2.2,10,2048,MSI,54677614.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,1,5.0
+Netbook,2.23,15.6,1920 x 1080 pixels,141,1,2.6,10,512,HP,15270664.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,2,5.0
+Netbook,2.3,14.0,1366 x 768 pixels,112,1,1.0,10,512,HP,14804946.0,Windows 10 Pro,1,0,0,1,0,Intel Core i5,INTEL,8 GB DDR4,1,2,0,3.6
+Netbook,2.23,15.6,1920 x 1080 pixels,141,1,2.5,10,512,HP,11201001.3,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,0,2,4.5
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.6,10,512,MSI,17533264.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,2.6
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,10,1024,ASUS,43364614.5,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,1,3,0,3.3
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,14629594.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,11688214.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,1.7,14.0,2560 x 1440 pixels,210,0,3.0,4,1024,ASUS,31297414.500000004,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,1,2,0,4.3
+Netbook,1.86,15.6,1920 x 1080 pixels,141,0,2.6,10,512,MSI,26376070.950000003,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,4,0,5.0
+Netbook,2.3,16.1,1920 x 1080 pixels,137,1,2.2,10,256,HP,18193189.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,1,5.0
+Netbook,2.14,15.6,1920 x 1080 pixels,141,1,2.6,10,256,ASUS,13762264.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,1,2,5.0
+Netbook,2.6,17.3,1920 x 1080 pixels,141,1,2.6,10,512,MSI,33937114.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Lenovo,16967614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,4,0,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,256,Lenovo,11689911.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.0
+Netbook,2.24,17.3,1920 x 1080 pixels,127,1,2.6,10,1024,ASUS,21871800.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,INTEL,16 GB DDR4,0,0,0,5.0
+Netbook,2.38,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,MSI,31108864.500000004,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,13573714.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,1,4.5
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,512,ASUS,13008064.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,4,512,ASUS,23566864.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,2,1,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,10,1024,ASUS,21888580.950000003,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.5,17.3,3840 x 2160 pixels,255,1,2.3,10,1024,MSI,30731764.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,3,0,5.1
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.6,10,512,MSI,16967614.5,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,4,0,5.0
+Netbook,2.0,15.6,3840 x 2160 pixels,282,0,2.6,9,1024,Dell,29206395.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,512,MSI,30520777.05,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,9,512,MSI,13573714.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,2,2,0,4.5
+Netbook,2.64,17.3,1920 x 1080 pixels,127,1,2.3,10,512,MSI,33937114.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,5.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.4,9,512,MSI,11499664.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,2,2,0,4.1
+Netbook,2.24,17.3,1920 x 1080 pixels,127,1,2.6,10,512,MSI,11312811.45,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,2,2,0,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,512,ASUS,11311114.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Netbook,1.7,14.0,1920 x 1080 pixels,157,1,2.9,4,1024,ASUS,25452364.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,2,0,4.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.1,3,1024,ASUS,11688214.5,Windows 10 Home,0,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,3.7
+Netbook,1.7,14.0,2560 x 1440 pixels,210,0,3.0,4,1024,ASUS,24322950.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 9,NVIDIA,32 GB DDR4,1,2,0,4.3
+Netbook,1.9,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,16686675.000000002,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,3,5.0
+Netbook,1.6,14.0,1920 x 1080 pixels,141,0,3.0,10,1024,ASUS,16213414.500000002,Windows 10,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,2,2,0,4.0
+Netbook,1.9,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,26208450.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,3,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,12630964.5,Windows 10 Home,0,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.3,4,512,ASUS,24509614.5,Windows 10,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,0,3,1,4.4
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,ASUS,16780950.0,Windows 10 Home,0,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,1,5.0
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,512,ASUS,12253864.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Acer,15270664.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,1,0,5.0
+Netbook,2.3,14.0,1920 x 1080 pixels,157,0,1.8,10,512,HP,23690930.4,Windows 10 Pro,3,0,0,1,0,Intel Core i7,INTEL,8 GB DDR4,0,2,0,4.9
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,Lenovo,13385918.7,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,4,0,4.5
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,512,ASUS,11311114.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,142,1,2.6,10,512,MSI,22624114.5,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.9,4,256,Lenovo,13669686.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,1,2,0,4.2
+Netbook,1.55,14.0,1920 x 1080 pixels,157,1,1.8,10,512,Lenovo,27526414.5,Windows 10 Pro,1,0,1,1,0,Intel Core i7,INTEL,16 GB DDR4,0,2,0,4.9
+Netbook,1.98,15.6,1920 x 1080 pixels,141,0,2.1,10,256,HP,12197299.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,1,1,3.7
+Netbook,1.6,14.0,1920 x 1080 pixels,141,0,3.0,4,512,ASUS,16686675.000000002,Windows 10,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,2,2,0,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.6,10,256,Lenovo,25077150.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,1,5.0
+Ultrabook,2.5,15.6,1920 x 1080 pixels,141,1,2.4,9,256,Acer,17533264.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.7,17.3,1920 x 1080 pixels,127,1,2.6,9,256,Acer,15082114.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,10,1024,ASUS,25075264.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,32 GB DDR4,1,4,0,5.1
+Netbook,3.0,17.3,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,23943964.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,4,512,ASUS,10370061.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,3,1,4.0
+Netbook,2.3,17.3,1920 x 1080 pixels,127,0,2.6,10,1024,ASUS,22146140.25,Windows 10 Home,1,0,1,0,0,Intel Core i7,INTEL,16 GB DDR4,0,0,0,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,2.9,4,512,ASUS,25169539.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 9,NVIDIA,16 GB DDR4,1,2,1,4.2
+Netbook,1.9,15.6,3840 x 2160 pixels,141,1,2.6,10,1024,ASUS,23568750.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,3,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,2.3,3,512,ASUS,14893564.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,2,1,4.0
+Netbook,2.3,17.3,1920 x 1080 pixels,127,0,2.6,10,512,ASUS,18098914.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.64,17.3,1920 x 1080 pixels,127,1,2.4,10,512,MSI,44778739.5,Windows 10 Home,2,0,0,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,2,1,5.3
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.5,10,512,MSI,12302887.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,1,2.9,4,256,ASUS,13385164.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,3,1,4.2
+Netbook,2.99,17.3,1920 x 1080 pixels,127,1,2.4,10,2048,ASUS,41535490.95,Windows 10 Home,1,0,1,0,0,Intel Core i9,NVIDIA,32 GB DDR4,1,3,0,5.3
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,512,ASUS,16762095.000000002,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.3,14.0,1920 x 1080 pixels,141,0,3.0,10,512,ASUS,16967614.5,Windows 10,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,2,2,0,4.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,3.0,4,512,ASUS,13196614.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,16 GB DDR4,0,3,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.6,10,1024,ASUS,24698164.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,0,0,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,2.9,4,512,ASUS,19418764.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,0,1,4.2
+Netbook,2.85,17.3,1920 x 1080 pixels,127,0,2.6,9,512,ASUS,38089739.7,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,0,0,4.5
+Netbook,4.7,17.3,1920 x 1080 pixels,127,1,2.4,9,512,ASUS,75418114.5,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,3,0,5.0
+Netbook,2.18,15.6,1920 x 1080 pixels,141,1,2.6,9,1024,Dell,40913464.5,Windows 10,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,20740311.450000003,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,2.9,4,512,ASUS,16024864.500000002,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,0,0,1,4.2
+Netbook,3.87,17.3,1920 x 1080 pixels,127,1,3.6,9,512,Dell,51851250.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.9
+Ultrabook,1.7,15.6,1920 x 1080 pixels,141,0,1.0,10,256,ASUS,10275975.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,2,3.6
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,0,3.0,4,256,ASUS,13008064.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,3,1,4.0
+Netbook,2.1,15.6,1920 x 1080 pixels,141,1,2.9,4,512,ASUS,20144682.0,Windows 10 Home,1,0,1,0,0,AMD Ryzen 7,NVIDIA,16 GB DDR4,1,3,0,4.2
+Netbook,2.45,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,HP,28846264.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,1,5.0
+Netbook,2.0,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,19607314.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,512,Dell,19569604.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,2,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.5,10,256,Acer,12291574.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,0,4.5
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.6,9,512,MSI,12819514.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.15,15.6,1920 x 1080 pixels,141,1,2.1,9,512,Acer,9425614.5,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,3.7
+Netbook,2.2,17.3,1920 x 1080 pixels,127,1,2.6,9,256,MSI,14139364.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.4,9,256,MSI,9991264.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Dell,17344714.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,2,5.0
+Netbook,2.6,17.3,1920 x 1080 pixels,127,0,2.6,10,1024,ASUS,34485795.0,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,3,5.0
+Netbook,1.9,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,ASUS,24321064.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,3,5.0
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,3.0,4,512,MSI,13102339.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,16 GB DDR4,2,2,0,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,MSI,21681364.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,5.0
+Netbook,2.33,15.6,1920 x 1080 pixels,141,1,2.3,3,256,MSI,13196614.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,AMD,16 GB DDR4,1,3,1,4.0
+Netbook,2.25,15.6,1920 x 1080 pixels,141,0,2.4,9,256,HP,13198311.45,Windows 10 Home,1,0,1,1,0,Intel Core i5,INTEL,8 GB DDR4,1,2,1,4.1
+Netbook,1.61,14.0,1920 x 1080 pixels,157,0,1.0,10,512,HP,12951688.05,Windows 10 Home,0,0,0,1,0,Intel Core i5,INTEL,8 GB DDR4,1,2,0,3.6
+Netbook,2.45,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,HP,24886714.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,1,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,512,ASUS,14705014.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,5.0
+Netbook,2.2,17.3,1920 x 1080 pixels,127,1,2.6,9,256,MSI,16381035.45,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.9,4,512,Dell,16401964.500000002,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,AMD,8 GB DDR4,1,1,2,4.2
+Netbook,2.23,15.6,1920 x 1080 pixels,141,0,2.4,9,512,HP,9425614.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.1
+Netbook,2.45,15.6,1920 x 1080 pixels,141,1,2.6,10,1024,HP,24417225.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,1,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,3.0,4,256,Lenovo,13196614.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,0,4.0
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,3.0,4,256,ASUS,13762264.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,512,MSI,26772214.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,0,5.0
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,3.0,4,512,Dell,12423370.95,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,1,1,2,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,0,2.3,3,512,Acer,12819514.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,0,0,4.0
+Netbook,2.66,17.3,1920 x 1080 pixels,127,1,5.0,10,1024,MSI,33937114.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,0,5.0
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.4,9,512,MSI,11029986.45,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.44,16.1,1920 x 1080 pixels,137,1,2.5,10,512,HP,12179952.9,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,0,1,2.5
+Netbook,2.44,16.1,1920 x 1080 pixels,137,1,2.6,10,256,HP,18664564.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,0,1,5.0
+Netbook,2.44,16.1,1920 x 1080 pixels,137,1,2.5,10,256,HP,14893564.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,0,2.5
+Netbook,2.28,15.6,1920 x 1080 pixels,141,1,2.4,9,256,HP,11311114.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Lenovo,25359975.0,Windows 10,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,5.0
+Netbook,2.11,15.6,1920 x 1080 pixels,141,1,5.0,10,1024,MSI,44778739.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,3,0,5.0
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.5,10,512,MSI,12819514.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,2.5
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.4,9,512,Lenovo,9991264.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Lenovo,15270664.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,5.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,10,256,Lenovo,14705014.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,3.0,10,512,ASUS,14893564.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,3.0
+Netbook,2.14,15.6,1920 x 1080 pixels,141,1,2.3,8,512,ASUS,9991264.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,2,4.0
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.6,9,512,MSI,16024864.500000002,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,2,0,4.5
+Netbook,2.15,15.6,1920 x 1080 pixels,141,1,2.4,9,512,Acer,10462639.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,1,4.1
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.6,9,256,Lenovo,11311114.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.5
+Netbook,2.85,17.3,1920 x 1080 pixels,127,1,2.4,9,512,ASUS,15082114.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.1,9,256,Acer,10934014.5,Windows 10 Home,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,2,1,3.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.1,9,256,ASUS,11122564.5,Windows 10,1,0,1,0,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,2,1,3.7
+Netbook,2.93,17.3,1920 x 1080 pixels,127,1,2.6,9,256,Acer,22624114.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,1,1,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,9,256,Acer,16967614.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,1,4.5
+Netbook,2.18,15.6,1920 x 1080 pixels,141,1,2.6,9,512,Dell,26397000.0,Windows 10,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,0,4.5
+Netbook,2.3,14.0,1920 x 1080 pixels,157,1,2.9,7,1024,HP,41832268.650000006,Windows 10 Pro,3,1,0,1,0,Intel Core i7,INTEL,16 GB DDR4,2,0,0,3.9
+Ultrabook,1.9,15.6,1920 x 1080 pixels,141,1,2.6,9,512,HP,13762264.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,1,4.5
+Ultrabook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,9,1024,Lenovo,22115783.700000003,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,4.5
+Netbook,1.6,14.0,1920 x 1080 pixels,157,1,1.0,10,256,HP,12022136.55,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,3.6
+Ultrabook,2.2,15.6,1920 x 1080 pixels,141,1,2.4,9,128,Lenovo,12817440.45,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.14,15.6,1920 x 1080 pixels,141,1,2.3,8,512,ASUS,9991264.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,2,4.0
+Netbook,2.53,15.6,1920 x 1080 pixels,141,1,2.3,8,512,Dell,11311114.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.0
+Ultrabook,2.57,15.6,1920 x 1080 pixels,141,1,2.3,9,1024,ASUS,31110750.000000004,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,1,2,1,4.8
+Netbook,2.33,15.6,1920 x 1080 pixels,141,1,2.3,3,256,MSI,14139364.5,Windows 10 Home,1,0,0,1,0,AMD Ryzen 7,AMD,16 GB DDR4,1,3,0,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.4,9,256,Lenovo,12349836.45,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.1
+Ultrabook,2.3,15.6,1920 x 1080 pixels,141,1,2.6,9,256,MSI,26395114.5,Windows 10,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Ultrabook,1.86,15.6,1920 x 1080 pixels,141,1,2.6,9,512,MSI,16969311.45,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,2,2,0,4.5
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.3,8,512,ASUS,11313000.0,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB,0,2,1,4.0
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.1,3,512,ASUS,10087425.0,Windows 10,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,0,2,1,3.7
+Ultrabook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,9,512,ASUS,16967614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,1,4.5
+Netbook,2.3,13.3,1920 x 1080 pixels,166,1,1.6,8,256,HP,28093761.450000003,Windows 10 Pro,1,1,1,1,0,Intel Core i7,INTEL,8 GB DDR4,1,3,0,3.4
+Ultrabook,2.2,15.6,1920 x 1080 pixels,141,1,2.1,8,128,ASUS,9519889.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,0,2,1,3.7
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.4,9,512,ASUS,13009950.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.1
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.3,8,512,ASUS,9425614.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,8,512,HP,16959129.75,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.0
+Netbook,2.19,15.6,1920 x 1080 pixels,141,1,2.1,8,256,HP,11878461.45,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,1,1,1,3.7
+Netbook,2.7,15.6,1920 x 1080 pixels,141,1,2.3,8,256,Acer,10368364.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,1,2,4.0
+Netbook,2.5,15.6,3840 x 2160 pixels,282,0,2.4,9,1024,ASUS,47135614.5,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB,1,2,0,5.0
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,2.6,9,512,Dell,16967614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,2.6,9,512,Dell,16168162.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.5
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,2.6,9,512,Dell,26395114.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Netbook,2.5,15.6,1920 x 1080 pixels,141,0,2.6,9,512,Dell,29600464.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Ultrabook,1.74,15.6,1920 x 1080 pixels,141,0,1.6,8,256,HP,9718621.2,Windows 10,1,0,1,1,1,Intel Core i7,NVIDIA,8 GB,1,1,1,3.9
+Hybrid,2.5,15.6,1920 x 1080 pixels,141,1,2.6,9,1024,Acer,16967614.5,Windows 10,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB,0,3,1,4.5
+Hybrid,2.2,15.6,1920 x 1080 pixels,141,1,2.1,9,1024,ASUS,10368364.5,Windows 10,1,0,0,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,2,1,3.7
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.4,9,512,ASUS,10934014.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.1,9,512,Acer,9048514.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,1,2,1,3.7
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.4,9,512,MSI,10368364.5,Windows 10 Home,2,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.1,9,256,Acer,10368364.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,1,2,1,3.7
+Netbook,2.85,17.3,1920 x 1080 pixels,127,1,2.4,9,256,ASUS,13385164.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.4,9,256,Lenovo,13952511.45,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,2.85,17.3,1920 x 1080 pixels,127,0,2.6,9,256,ASUS,18287464.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.5
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.4,9,128,Lenovo,18664564.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,2.7,17.3,1920 x 1080 pixels,127,0,2.3,9,256,ASUS,12819514.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,2,1,2.3
+Netbook,1.9,15.6,1920 x 1080 pixels,141,1,2.4,9,256,HP,9991264.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.1
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.4,9,256,ASUS,12253864.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,4.7,17.3,1920 x 1080 pixels,127,1,2.4,9,1024,ASUS,75418114.5,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,3,0,5.0
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.6,9,512,ASUS,14705014.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.4,9,512,ASUS,9991264.5,Windows 10 Home,1,0,1,0,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.6,9,256,ASUS,16779064.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,4.5
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.6,9,256,ASUS,15082114.5,Windows 10 Home,1,0,1,0,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,4.5
+Netbook,2.28,15.6,1920 x 1080 pixels,141,1,2.4,9,256,HP,14620167.0,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.28,15.6,1920 x 1080 pixels,141,1,2.6,9,512,HP,19973478.6,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,12 GB DDR4,1,3,0,4.5
+Netbook,2.38,15.6,1920 x 1080 pixels,141,1,2.4,9,256,HP,13573714.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,2,3,0,4.1
+Netbook,2.38,15.6,1920 x 1080 pixels,141,1,2.6,9,256,HP,15459214.500000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,2,3,0,4.5
+Netbook,2.25,15.6,1920 x 1080 pixels,141,1,2.6,9,512,HP,21098745.0,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,12 GB DDR4,1,2,0,4.5
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.3,9,512,ASUS,12706384.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,2,1,2.3
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.6,9,256,MSI,27337864.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.1,9,256,ASUS,11218725.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,NVIDIA,8 GB DDR4,0,3,1,2.1
+Netbook,1.18,14.0,1920 x 1080 pixels,157,0,1.6,8,512,MSI,9991264.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,INTEL,8 GB DDR4,1,2,0,3.9
+Netbook,2.2,15.6,1920 x 1080 pixels,141,0,2.3,8,512,ASUS,11216839.5,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,3,1,2.3
+Netbook,2.2,15.6,1920 x 1080 pixels,141,0,2.3,8,256,ASUS,13363669.8,Windows 10 Home,1,0,1,1,0,AMD Ryzen 7,NVIDIA,8 GB DDR4,0,2,1,2.3
+Netbook,2.4,15.6,1920 x 1080 pixels,141,0,2.6,9,512,MSI,22624114.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.5
+Netbook,2.38,15.6,3840 x 2160 pixels,282,1,2.2,8,256,HP,30987249.750000004,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.1
+Netbook,1.4,14.0,1920 x 1080 pixels,157,0,1.6,8,256,ASUS,9425614.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,INTEL,8 GB DDR4,1,1,2,3.9
+Netbook,2.6,17.3,1920 x 1080 pixels,127,1,2.1,8,256,ASUS,10671930.0,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,0,2,1,3.7
+Netbook,4.42,17.3,1920 x 1080 pixels,127,1,2.2,8,512,Dell,43176064.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.1
+Netbook,2.18,15.6,1920 x 1080 pixels,141,1,2.2,8,512,Dell,34597039.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,0,4.1
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.2,8,256,ASUS,31108864.500000004,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.22,15.6,1920 x 1080 pixels,141,1,2.1,8,256,ASUS,9762553.35,Windows 10 Home,1,0,1,1,0,AMD Ryzen 5,AMD,8 GB DDR4,0,2,0,3.7
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,8,128,Lenovo,16967614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,2.2,17.3,1920 x 1080 pixels,127,1,2.2,8,128,MSI,14141061.45,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,3,0,4.1
+Netbook,1.6,15.6,1920 x 1080 pixels,141,1,1.8,8,512,MSI,19232100.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.0
+Ultrabook,2.6,15.6,1920 x 1080 pixels,141,1,2.6,8,512,HP,52228350.0,Windows 10 Pro,3,0,1,1,0,Intel Core i7,NVIDIA,8 GB,1,3,0,4.3
+Netbook,2.6,15.6,1920 x 1080 pixels,141,1,2.3,8,256,ASUS,11876764.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,1,3,0,4.0
+Netbook,4.42,17.3,2560 x 1440 pixels,170,1,2.9,8,1024,Dell,65802064.50000001,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,2,0,4.8
+Netbook,3.87,17.3,1920 x 1080 pixels,127,1,3.6,9,512,Dell,94275000.0,Windows 10 Home,1,0,1,1,0,Intel Core i9,NVIDIA,32 GB DDR4,1,2,0,5.0
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,8,256,ASUS,14517218.7,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.2,8,128,Lenovo,19817547.75,Windows 10 Home,0,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,4.1
+Netbook,4.0,17.3,1920 x 1080 pixels,127,1,2.2,8,256,Acer,30166114.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,2,3,0,4.1
+Netbook,4.2,17.3,1920 x 1080 pixels,127,1,2.8,7,256,Acer,35822614.5,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,4,0,3.8
+Netbook,2.18,15.6,1920 x 1080 pixels,141,1,2.4,7,256,HP,7219579.5,Windows 10 Home,1,0,1,1,1,Intel Core i3,NVIDIA,4 GB DDR4,0,2,0,2.4
+Netbook,4.7,17.3,1920 x 1080 pixels,127,1,2.9,8,256,ASUS,101995368.3,Windows 10,2,0,0,1,0,Intel Core i9,NVIDIA,64 GB DDR4,1,3,0,4.8
+Ultrabook,2.4,15.6,1920 x 1080 pixels,141,1,2.2,8,128,Mechrevo,16546205.250000002,Windows 10,0,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.1
+Ultrabook,2.1,15.6,1920 x 1080 pixels,141,1,2.2,8,128,Mechrevo,15581206.35,Windows 10,0,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,3.8
+Ultrabook,2.1,15.6,1920 x 1080 pixels,141,1,2.2,8,128,Mechrevo,17118265.95,Windows 10,0,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,4.1
+Netbook,4.5,17.3,1920 x 1080 pixels,127,0,2.9,7,512,MSI,56563114.5,Windows 10 Pro,2,0,0,1,0,Intel Core i7,NVIDIA,32 GB DDR4,0,5,0,3.9
+Netbook,2.4,15.6,1920 x 1080 pixels,141,0,1.8,8,512,ASUS,27339750.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,1,2,0,1.8
+Netbook,1.9,15.6,1920 x 1080 pixels,141,0,1.6,8,512,ASUS,10934014.5,Windows 10 Home,1,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,0,3.4
+Netbook,2.4,15.6,1920 x 1080 pixels,141,1,2.2,8,256,ASUS,18853114.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,3,0,4.1
+Netbook,2.18,15.6,3480 x 2160 pixels,141,1,2.2,8,1024,Dell,30168000.0,Windows 10,1,0,0,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.1
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.5,7,1024,MSI,13762264.5,Windows 10 Home,2,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,1,0,3.5
+Netbook,4.42,17.3,1920 x 1080 pixels,127,1,2.8,7,512,Dell,35822614.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,0,0,3.8
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,8,512,HP,10368364.5,Windows 10 Home,1,0,1,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,2,1,4.0
+Netbook,5.5,18.4,1920 x 1080 pixels,120,0,2.6,8,512,MSI,75418114.5,Windows 10 Home,2,0,1,1,1,Intel Core i7,NVIDIA,32 GB DDR4,1,5,0,4.3
+Netbook,1.86,15.6,1920 x 1080 pixels,141,1,2.2,8,128,MSI,14139364.5,Windows 10 Home,2,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,2.2
+Netbook,2.4,15.6,1920 x 1080 pixels,141,0,2.2,8,256,Dell,16592400.000000002,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,2,0,2.2
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.2,8,128,MSI,16024864.500000002,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,1,2,0,4.1
+Netbook,2.3,15.6,1920 x 1080 pixels,141,1,2.3,8,128,ASUS,12412623.6,Windows 10 Home,2,0,0,1,0,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,4.0
+Netbook,4.57,17.3,1920 x 1080 pixels,127,1,2.9,7,128,HP,61540834.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,32 GB DDR4,0,5,0,3.9
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.8,7,128,ASUS,12253864.5,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,3,0,3.8
+Netbook,1.9,15.6,3840 x 2160 pixels,282,1,2.8,7,128,ASUS,18100800.0,Windows 10 Home,2,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,1,0,2.8
+Netbook,1.8,15.6,1080 x 1920 pixels,141,1,2.5,7,128,ASUS,5467761.45,DOS,2,0,1,1,1,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,3.1
+Netbook,1.8,15.6,1080 x 1920 pixels,141,1,2.5,7,128,ASUS,7540114.5,DOS,2,0,1,1,1,Intel Core i5,NVIDIA,8 GB DDR4,0,3,0,3.1
+Netbook,3.78,17.3,1920 x 1080 pixels,127,1,2.8,7,256,HP,33033205.8,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,5,0,3.8
+Netbook,2.6,15.6,3840 x 2160 pixels,282,1,2.8,7,128,HP,26960764.5,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,16 GB DDR4,0,5,0,3.8
+Netbook,2.03,15.6,1920 x 1080 pixels,141,1,2.6,6,128,HP,17440875.0,Windows 10 Home,1,0,0,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,0,0,2.6
+Netbook,2.2,15.6,1920 x 1080 pixels,141,1,2.8,7,128,HP,19466844.75,Windows 10 Home,1,0,1,1,0,Intel Core i7,NVIDIA,8 GB DDR4,0,2,0,3.8
+Netbook,4.2,17.3,1920 x 1080 pixels,127,1,2.8,7,128,Acer,32053311.450000003,Windows 10 Home,1,0,0,1,1,Intel Core i7,NVIDIA,16 GB DDR4,0,4,0,3.8
+Netbook,2.5,15.6,1920 x 1080 pixels,141,1,2.8,7,256,ASUS,18100611.45,Windows 10 Home,2,0,1,1,1,Intel Core i7,NVIDIA,16 GB DDR4,0,3,0,3.8
+Netbook,3.5,17.3,1920 x 1080 pixels,127,1,2.6,6,128,Lenovo,14329611.45,Windows 10,3,0,0,1,1,Intel Core i7,INTEL,16 GB DDR4,0,2,0,3.5
