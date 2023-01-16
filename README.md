@@ -10,7 +10,7 @@ Saya percaya teman-teman yang ada di sini pernah mengalami pengalaman seperti in
 
 ## Garis Besar Proyek
 Pada proyek kali ini, ada beberapa tahapan yang saya lakukan mulai dari pengumpulan data hingga pembuatan model :
-* **Data mining** menggunakan python dengan modul Selenium dan BeautifulSoup melalui salah satu website penjualan peralatan elektronik dari India "www.smartprix.com"
+* **Data Scraping** menggunakan python dengan modul Selenium dan BeautifulSoup melalui salah satu website penjualan peralatan elektronik dari India "www.smartprix.com"
 * **Data Cleaning** dan **Data Wrangling** laptop gaming mentah yang di-scrap melalui website tersebut yang mencakup penghapusan kolom tertentu, mengganti format/datatype kolom, dan mengisi data yang hilang
 * **Data Exploration** untuk menentukan parameter yang akan dijadikan prediktor. Tentu saja parameter yang dipilih diharapkan memiliki korelasi yang cukup kuat dengan harga laptop gaming.
 * **Training dan Validate Model** regresi linear yang performansi nya paling bagus dan membuat model tersebut berdasarkan keseluruhan data yang ada.
